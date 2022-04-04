@@ -1,0 +1,707 @@
+sample	samples	Canonical_mut_in_KRAS_EGFR_ALK	Cnncl_mt_n_KRAS_EGFR_ALK_RET_ROS1_BRAF_ERBB2_HRAS_NRAS_AKT1_MAP2	DFI	DFI.time	DSS	DSS.time	gender	PFI	PFI.time	ALK_translocation	EGFR	age_at_initial_pathologic_diagnosis	egfr_mutation_result	egfr_mutation_performed	eml4_alk_translocation_method	eml4_alk_translocation_performed	kras_mutation_result	kras_mutation_found	kras_gene_analysis_performed	MET	pathologic_M	pathologic_N	pathologic_T	additional_surgery_metastatic_procedure	additional_surgery_locoregional_procedure	additional_pharmaceutical_therapy	additional_radiation_therapy	histological_type	history_of_neoadjuvant_treatment
+TCGA-49-4486-01	TCGA-49-4486-01	N	N	1	2045	1	2318	MALE	1	2045		none	72								none	M0	N0	T1	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4486-11	TCGA-49-4486-11	N	N	1	2045	1	2318	MALE	1	2045		none	72								none	M0	N0	T1	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-7499-01	TCGA-73-7499-01	N	N	1	1447	0	1531	FEMALE	1	1447		none	81		NO		NO			NO	none	M0	N0	T2a	YES		NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-95-7039-01	TCGA-95-7039-01	N	N	1	1258	0	1272	FEMALE	1	1258		p.S921R	54								none	MX	N0	T3		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7152-01	TCGA-78-7152-01	N	N	1	1202	1	1215	MALE	1	1202		none	65		NO		NO			NO	none	M0	N0	T2	NO		NO	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-2659-01	TCGA-44-2659-01	N	N	1	1146	0	1367	FEMALE	1	1146		none	65							NO	none	M0	N1	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2659-11	TCGA-44-2659-11	N	N	1	1146	0	1367	FEMALE	1	1146		none	65							NO	none	M0	N1	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4487-01	TCGA-49-4487-01	N	N	1	697	1	855	FEMALE	1	697		none	72								none	M0	N0	T1	YES	YES	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4506-01	TCGA-49-4506-01	N	N	1	692		999	FEMALE	1	692		none	68								none	M0	N1	T2		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4506-11	TCGA-49-4506-11	N	N	1	692		999	FEMALE	1	692		none	68								none	M0	N1	T2		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6775-01	TCGA-44-6775-01	N	N	1	684	0	705	FEMALE	1	684		none	72								exon 14 skipping by RSeq	MX	N0	T2a		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-4112-01	TCGA-44-4112-01	N	N	1	619	1	808	FEMALE	1	619		none	60							NO	none	M0	N0	T2a		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-4112-11	TCGA-44-4112-11	N	N	1	619	1	808	FEMALE	1	619		none	60							NO	none	M0	N0	T2a		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7574-01	TCGA-55-7574-01	N	N	1	478	1	995	FEMALE	1	478		none	64							NO	none	M0	N0	T2a	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7574-11	TCGA-55-7574-11	N	N	1	478	1	995	FEMALE	1	478		none	64							NO	none	M0	N0	T2a	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-1592-01	TCGA-55-1592-01	N	N	1	452	1	701	MALE	1	452		none	65								none	M0	N0	T2	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-1592-11	TCGA-55-1592-11	N	N	1	452	1	701	MALE	1	452		none	65								none	M0	N0	T2	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-75-6214-01	TCGA-75-6214-01	N	N	1	419	1	1115	FEMALE	1	419		none									none	M0	N2	T2	YES		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4382-01	TCGA-05-4382-01	N	N	1	334	0	607	MALE	1	334		p.R222L, p.E545Q	68								none	M0	N0	T2				YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-78-7149-01	TCGA-78-7149-01	N	N	0	3940	0	3940	MALE	0	3940		none	71		NO		NO			NO	p.P1322H	M0	N0	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-64-1679-01	TCGA-64-1679-01	N	N	0	2488	0	2488	FEMALE	0	2488		none	58							NO	none	M0	N2	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5933-01	TCGA-50-5933-01	N	N	0	2393	0	2393	MALE	0	2393		none	72								p.C98F	M0	N2	T4					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5933-11	TCGA-50-5933-11	N	N	0	2393	0	2393	MALE	0	2393		none	72								p.C98F	M0	N2	T4					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-1596-01	TCGA-55-1596-01	N	N	0	2065	0	2065	MALE	0	2065		none	55								none	M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-1596-11	TCGA-55-1596-11	N	N	0	2065	0	2065	MALE	0	2065		none	55								none	M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7159-01	TCGA-78-7159-01	N	N	0	1974	0	1974	FEMALE	0	1974		none	60		NO		NO			NO	none	M0	NX	T1					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-97-7553-01	TCGA-97-7553-01	N	N	0	1870	0	1870	FEMALE	0	1870		none	58								none	MX	N0	T1					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-64-1676-01	TCGA-64-1676-01	N	N	0	1728	0	1728	MALE	0	1728		none	58								none	M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4514-01	TCGA-49-4514-01	N	N	0	1700	0	1700	FEMALE	0	1700		none	79								none	M0	N0	T1					Lung Papillary Adenocarcinoma	No
+TCGA-49-6744-01	TCGA-49-6744-01	N	N	0	1683	0	1683	FEMALE	0	1683		none	64						YES	YES	none	MX	N1	T2a			NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-49-6744-11	TCGA-49-6744-11	N	N	0	1683	0	1683	FEMALE	0	1683		none	64						YES	YES	none	MX	N1	T2a			NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-6972-01	TCGA-55-6972-01	N	N	0	1632	0	1632	MALE	0	1632		none	72		NO		NO			NO	none	M0	N0	T2					Lung Papillary Adenocarcinoma	No
+TCGA-55-6972-11	TCGA-55-6972-11	N	N	0	1632	0	1632	MALE	0	1632		none	72		NO		NO			NO	none	M0	N0	T2					Lung Papillary Adenocarcinoma	No
+TCGA-73-4658-01	TCGA-73-4658-01	N	N	0	1600	0	1600	FEMALE	0	1600		none	80		NO					NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4658-11	TCGA-73-4658-11	N	N	0	1600	0	1600	FEMALE	0	1600		none	80		NO					NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4398-01	TCGA-05-4398-01	N	N	0	1431	0	1431	FEMALE	0	1431		none	47								none	M0	N3	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-6971-01	TCGA-55-6971-01	N	N	0	1400	0	1400	FEMALE	0	1400		none	59		NO		NO			NO	none	MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6971-11	TCGA-55-6971-11	N	N	0	1400	0	1400	FEMALE	0	1400		none	59		NO		NO			NO	none	MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2657-01	TCGA-44-2657-01	N	N	0	1351	0	1351	FEMALE	0	1351		none	74							NO	p.N315S	M0	NX	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2657-11	TCGA-44-2657-11	N	N	0	1351	0	1351	FEMALE	0	1351		none	74							NO	p.N315S	M0	NX	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-75-5147-01	TCGA-75-5147-01	N	N	0	1333	0	1333	FEMALE	0	1333		none			NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2655-01	TCGA-44-2655-01	N	N	0	1324	0	1324	FEMALE	1	1009		none	65							NO	none	M0	N0	T1	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2655-11	TCGA-44-2655-11	N	N	0	1324	0	1324	FEMALE	1	1009		none	65							NO	none	M0	N0	T1	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6985-01	TCGA-55-6985-01	N	N	0	1233	0	1233	FEMALE	0	1233		none	58		NO		NO			NO	none	MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6985-11	TCGA-55-6985-11	N	N	0	1233	0	1233	FEMALE	0	1233		none	58		NO		NO			NO	none	MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-3396-01	TCGA-44-3396-01	N	N	0	1130	0	1130	FEMALE	0	1130		none	74							NO	none	M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-3396-11	TCGA-44-3396-11	N	N	0	1130	0	1130	FEMALE	0	1130		none	74							NO	none	M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7670-01	TCGA-44-7670-01	N	N	0	882	0	882	FEMALE	0	882		none	47								none	M0	N1	T1b		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7670-11	TCGA-44-7670-11	N	N	0	882	0	882	FEMALE	0	882		none	47								none	M0	N1	T1b		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-5645-01	TCGA-44-5645-01	N	N	0	852	0	852	FEMALE	0	852		none	61								none		NX	T1		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-5645-11	TCGA-44-5645-11	N	N	0	852	0	852	FEMALE	0	852		none	61								none		NX	T1		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4432-01	TCGA-05-4432-01	N	N	0	761	0	761	MALE	0	761		none	66								none	M0	N1	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-6774-01	TCGA-44-6774-01	N	N	0	658	0	658	FEMALE	0	658		none	56								none	M0	N2	T1		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5935-01	TCGA-50-5935-01	N	N	0	653	0	653	FEMALE	0	653		none	86	Other	YES				YES	YES	none	M0	N0	T1		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5935-11	TCGA-50-5935-11	N	N	0	653	0	653	FEMALE	0	653		none	86	Other	YES				YES	YES	none	M0	N0	T1		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-93-7348-01	TCGA-93-7348-01	N	N	0	531	0	531	FEMALE	0	531		none	75		NO		NO			NO	p.D1010_splice	MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-93-7348-11	TCGA-93-7348-11	N	N	0	531	0	531	FEMALE	0	531		none	75		NO		NO			NO	p.D1010_splice	MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-7771-01	TCGA-91-7771-01	N	N	0	492	0	492	MALE	0	492		none	62		NO					NO	none	MX	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-95-7947-01	TCGA-95-7947-01	N	N	0	477	0	477	MALE	0	477		p.I91V, p.R1052I	67								none	M0	N0	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-95-7948-01	TCGA-95-7948-01	N	N	0	476	0	476	FEMALE	0	476		none	42								none	M0	N0	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-5939-01	TCGA-50-5939-01	N	N	0	460	0	460	MALE	0	460		none	85								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-5939-11	TCGA-50-5939-11	N	N	0	460	0	460	MALE	0	460		none	85								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-91-6840-01	TCGA-91-6840-01	N	N	0	372	0	372	FEMALE	0	372		none	59							NO	none	M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7662-01	TCGA-44-7662-01	N	N	0	218	0	218	MALE	0	218		none	61							NO	none	MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7662-11	TCGA-44-7662-11	N	N	0	218	0	218	MALE	0	218		none	61							NO	none	MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-6851-01	TCGA-86-6851-01	N	N	0	179	0	179	FEMALE	0	179		none	73								none	M0	N1	T1b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-7727-01	TCGA-55-7727-01	N	N	0	119	0	119	MALE	0	119		none	70								none	MX	N2	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5055-01	TCGA-50-5055-01	N	N			1	1830	FEMALE	1	771		none	79		YES				NO	YES	none	M0	N1	T1	NO	YES	YES	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-5068-01	TCGA-50-5068-01	N	N			1	1499	FEMALE	1	686		none	59								none	MX	N1	T2	NO	YES	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6982-01	TCGA-55-6982-01	N	N			1	995	FEMALE	1	183		none	79		NO		NO			NO	p.D1010_splice	M0	N1	T2	YES	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6982-11	TCGA-55-6982-11	N	N			1	995	FEMALE	1	183		none	79		NO		NO			NO	p.D1010_splice	M0	N1	T2	YES	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7535-01	TCGA-78-7535-01	N	N			1	949	MALE	1	809		none	45		NO		NO			NO	none	M0	N0	T2	YES	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-53-7626-01	TCGA-53-7626-01	N	N			1	929	FEMALE	1	865		none	76		NO		NO			NO	none	M0	N1	T1		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4512-01	TCGA-49-4512-01	N	N			1	905	FEMALE	1	905		none	69								none	MX	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4512-11	TCGA-49-4512-11	N	N			1	905	FEMALE	1	905		none	69								none	MX	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7150-01	TCGA-78-7150-01	N	N			1	666	MALE	1	139		none	59		NO		NO			NO	none	M0	N1	T2	YES	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-95-7043-01	TCGA-95-7043-01	N	N			1	503	FEMALE	1	503		none	63								none	MX	N0	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-6779-01	TCGA-44-6779-01	N	N			1	500	FEMALE	1	232		none	50								none	MX	N1	T2		NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-6742-01	TCGA-49-6742-01	N	N			1	488	MALE	1	214		none	70						NO	YES	none	M0	N1	T2a	YES	NO	YES	NO	Mucinous (Colloid) Carcinoma	No
+TCGA-49-6742-11	TCGA-49-6742-11	N	N			1	488	MALE	1	214		none	70						NO	YES	none	M0	N1	T2a	YES	NO	YES	NO	Mucinous (Colloid) Carcinoma	No
+TCGA-50-5931-01	TCGA-50-5931-01	N	N			1	434	FEMALE	1	425		none	75								none	M0	N0	T2	NO		NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5931-11	TCGA-50-5931-11	N	N			1	434	FEMALE	1	425		none	75								none	M0	N0	T2	NO		NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4631-01	TCGA-38-4631-01	N	N			1	354	FEMALE	1	354		none	72		NO		NO			NO	none	M0	N0	T2	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4631-11	TCGA-38-4631-11	N	N			1	354	FEMALE	1	354		none	72		NO		NO			NO	none	M0	N0	T2	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6593-01	TCGA-50-6593-01	N	N			1	336	FEMALE	1	266		none	49		YES		YES		NO	YES	none	M0	N2	T1	NO		NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-6593-11	TCGA-50-6593-11	N	N			1	336	FEMALE	1	266		none	49		YES		YES		NO	YES	none	M0	N2	T1	NO		NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-7109-01	TCGA-50-7109-01	N	N			1	308	MALE	1	15		none	60								none	M0	N0	T1	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-7109-11	TCGA-50-7109-11	N	N			1	308	MALE	1	15		none	60								none	M0	N0	T1	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4676-01	TCGA-73-4676-01	N	N			1	281	MALE	1	281		none	45		NO		NO			NO	none	M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Yes
+TCGA-73-4676-11	TCGA-73-4676-11	N	N			1	281	MALE	1	281		none	45		NO		NO			NO	none	M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Yes
+TCGA-49-4507-01	TCGA-49-4507-01	N	N			1	268	FEMALE	1	158		none	73								none	M0	N1	T3	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4507-11	TCGA-49-4507-11	N	N			1	268	FEMALE	1	158		none	73								none	M0	N1	T3	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5936-01	TCGA-50-5936-01	N	N			1	257	MALE	1	150		none	58		YES			G12C	YES	YES	none	M0	N2	T2	NO	YES	YES	NO	Mucinous (Colloid) Carcinoma	No
+TCGA-50-5936-11	TCGA-50-5936-11	N	N			1	257	MALE	1	150		none	58		YES			G12C	YES	YES	none	M0	N2	T2	NO	YES	YES	NO	Mucinous (Colloid) Carcinoma	No
+TCGA-50-5072-01	TCGA-50-5072-01	N	N			1	250	MALE	1	213		none	74		YES		YES			YES	none	M0	N2	T2	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Yes
+TCGA-78-7536-01	TCGA-78-7536-01	N	N			1	244	MALE	1	231		none	69		NO		NO			NO	none	M0	N2	T2	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6979-01	TCGA-55-6979-01	N	N			1	237	FEMALE	1	195		none	59		NO		NO			NO	none	M0	N1	T2	NO		YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6979-11	TCGA-55-6979-11	N	N			1	237	FEMALE	1	195		none	59		NO		NO			NO	none	M0	N1	T2	NO		YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7158-01	TCGA-78-7158-01	N	N			1	179	FEMALE	1	132		p.L907M	59		NO		NO			NO	none	M0	N2	T4	NO	NO			Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-6978-01	TCGA-55-6978-01	N	N			1	176	MALE	1	42		none	81		NO		NO			NO	none	MX	N0	T2b	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6978-11	TCGA-55-6978-11	N	N			1	176	MALE	1	42		none	81		NO		NO			NO	none	MX	N0	T2b	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6712-01	TCGA-55-6712-01	N	N			1	171	MALE	1	171		none	71								p.E1314G	MX	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-75-6205-01	TCGA-75-6205-01	N	N			1		FEMALE	1			none									p.Y1003*	M0	N0	T2a	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-75-6211-01	TCGA-75-6211-01	N	N			1		FEMALE	1			none									none	M0	N0	T2	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-75-5122-01	TCGA-75-5122-01	N	N			1		MALE	1			none			NO		NO			NO	p.D1010_splice	M0	N0	T2	NO		NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5049-01	TCGA-50-5049-01	N	N			0	3094	MALE	1	1568		none	70		YES				NO	YES	none	M0	N0	T2		NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-7552-01	TCGA-97-7552-01	N	N			0	1932	MALE	1	798		none	70								none	MX	N0	T2			NO	NO	Lung Bronchioloalveolar Carcinoma Mucinous	No
+TCGA-64-5781-01	TCGA-64-5781-01	N	N			0	1559	FEMALE	1	96		none	55								p.Y1235H	M0	N0	T2	YES	NO	NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-97-7546-01	TCGA-97-7546-01	N	N			0	1285	FEMALE	1	1255		none	76								none	MX	N0	T1			YES	YES	Lung Acinar Adenocarcinoma	No
+TCGA-44-2662-01	TCGA-44-2662-01	N	N			0	1280	MALE	1	245		none	65							NO	none	M0	N0	T2		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2662-11	TCGA-44-2662-11	N	N			0	1280	MALE	1	245		none	65							NO	none	M0	N0	T2		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6597-01	TCGA-50-6597-01	N	N			0	1268	FEMALE	0	1268		none	79		YES				NO	YES	p.D1010_splice	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6829-01	TCGA-91-6829-01	N	N			0	1258	MALE	0	1258		none	78							NO	none	MX	N0	T2					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-91-6829-11	TCGA-91-6829-11	N	N			0	1258	MALE	0	1258		none	78							NO	none	MX	N0	T2					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-55-1594-01	TCGA-55-1594-01	N	N			0	1178	MALE	0	1178		none	68								none	M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-1594-11	TCGA-55-1594-11	N	N			0	1178	MALE	0	1178		none	68								none	M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4675-01	TCGA-73-4675-01	N	N			0	922	MALE	1	361		none	59		NO		NO			NO	none	M0	N1	T3		NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4675-11	TCGA-73-4675-11	N	N			0	922	MALE	1	361		none	59		NO		NO			NO	none	M0	N1	T3		NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4424-01	TCGA-05-4424-01	N	N			0	913	MALE	1	153		none	70								none	M0	N0	T3				YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-4430-01	TCGA-05-4430-01	N	N			0	761	FEMALE	0	761		none	59								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-69-7763-01	TCGA-69-7763-01	N	N			0	690	MALE	0	690		none	69		NO		NO			NO	none	M0	N0	T1b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-49-6767-01	TCGA-49-6767-01	N	N			0	677	FEMALE	0	677		none	46								none	MX	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4425-01	TCGA-05-4425-01	N	N			0	669	FEMALE	0	669		none	70								none	M1	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-67-3771-01	TCGA-67-3771-01	N	N			0	610	FEMALE	0	610		none	77		NO		NO			NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4405-01	TCGA-05-4405-01	N	N			0	610	FEMALE	0	610		none	74								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-97-7937-01	TCGA-97-7937-01	N	N			0	564	MALE	0	564		none	65		YES	FISH	YES		NO	YES	none	MX	N0	T2a		NO			Lung Micropapillary Adenocarcinoma	No
+TCGA-49-6745-01	TCGA-49-6745-01	N	N			0	522	MALE	0	522		none	82		YES				NO	YES	p.D1010_splice	M0	N2	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-6745-11	TCGA-49-6745-11	N	N			0	522	MALE	0	522		none	82		YES				NO	YES	p.D1010_splice	M0	N2	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-5420-01	TCGA-05-5420-01	N	N			0	457	MALE	1	245		none	67								none	M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-5420-11	TCGA-05-5420-11	N	N			0	457	MALE	1	245		none	67								none	M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4384-01	TCGA-05-4384-01	N	N			0	426	MALE	1	183		none	66								none	M0	N2	T2				YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-69-7764-01	TCGA-69-7764-01	N	N			0	414	MALE	0	414		none	75		YES		NO			NO	none	M0	N0	T1b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-4422-01	TCGA-05-4422-01	N	N			0	365	MALE	0	365		none	68								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-5429-01	TCGA-05-5429-01	N	N			0	275	MALE	0	275		none	60								none	M0	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-71-6725-01	TCGA-71-6725-01	N	N			0	256	FEMALE	1	164		none	48								none	M0	N0	T2		NO	NO	YES	Lung Papillary Adenocarcinoma	No
+TCGA-69-7761-01	TCGA-69-7761-01	N	N			0	186	MALE	0	186		none	84	Other	YES						none	MX	N0	T2a					Lung Acinar Adenocarcinoma	No
+TCGA-75-7031-01	TCGA-75-7031-01	N	N			0		FEMALE	0			none									none	M0	N0	T2	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7143-01	TCGA-78-7143-01	N	N				4961	FEMALE	1	1500		none	62		NO		NO			NO	p.D963_splice	M0	N0	T2	NO	NO	NO	NO	Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-78-7162-01	TCGA-78-7162-01	N	N				3169	MALE	1	2218		none	75		NO		NO			NO	none	M0	N0	T1	NO	NO	YES	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-78-7155-01	TCGA-78-7155-01	N	N				1171	MALE	1	209		p.Q432H, p.K754I, p.G901V	68		NO		NO			NO	none	M0	N0	T2	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7156-01	TCGA-78-7156-01	N	N				976	MALE	0	976		none	62		NO		NO			NO	none	M1	N1	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-49-4488-01	TCGA-49-4488-01	N	N				869	FEMALE	1	634		none	74								none	MX	N0	T1			NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4488-11	TCGA-49-4488-11	N	N				869	FEMALE	1	634		none	74								none	MX	N0	T1			NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-64-1677-01	TCGA-64-1677-01	N	N				628	FEMALE	1	360		none	77								none	M0	N2	T2	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7154-01	TCGA-78-7154-01	N	N				593	MALE	0	593		none	72		NO		NO			NO	none	M0	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7542-01	TCGA-78-7542-01	N	N				321	MALE	0	321		none	56		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4396-01	TCGA-05-4396-01	N	N				303	MALE	0	303		none	76								none	M0	N1	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-78-7633-01	TCGA-78-7633-01	N	Y	1	1450	1	1528	MALE	1	1450		none	67		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-3919-01	TCGA-44-3919-01	N	Y	1	921	1	1026	FEMALE	1	921		none	71							NO	none	M0	N0	T1	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-3919-11	TCGA-44-3919-11	N	Y	1	921	1	1026	FEMALE	1	921		none	71							NO	none	M0	N0	T1	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4426-01	TCGA-05-4426-01	N	Y	1	457	0	791	MALE	1	457		none	71								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-78-7153-01	TCGA-78-7153-01	N	Y	0	3635	0	3635	FEMALE	0	3635		none	65		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-6986-01	TCGA-55-6986-01	N	Y	0	3261	0	3261	FEMALE	0	3261		none	74		NO		NO			NO	none	M0	N0	T2					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-55-6986-11	TCGA-55-6986-11	N	Y	0	3261	0	3261	FEMALE	0	3261		none	74		NO		NO			NO	none	M0	N0	T2					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-75-5146-01	TCGA-75-5146-01	N	Y	0	2368	0	2368	MALE	1	1773		none			NO		NO			NO	none	M0	N0	T2			YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2656-01	TCGA-44-2656-01	N	Y	0	1429	0	1429	MALE	1	568		none	59							NO	none	M0	N0	T2			YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2656-11	TCGA-44-2656-11	N	Y	0	1429	0	1429	MALE	1	568		none	59							NO	none	M0	N0	T2			YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-64-1678-01	TCGA-64-1678-01	N	Y	0	1189	0	1189	FEMALE	0	1189		none	70								none	M0	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4420-01	TCGA-05-4420-01	N	Y	0	912	0	912	MALE	0	912		none	41								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-7724-01	TCGA-55-7724-01	N	Y	0	705	0	705	FEMALE	0	705		none	76								none	MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7724-11	TCGA-55-7724-11	N	Y	0	705	0	705	FEMALE	0	705		none	76								none	MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-5428-01	TCGA-05-5428-01	N	Y	0	670	0	670	MALE	0	670		none	57								none	M0	N1	T1b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-7903-01	TCGA-55-7903-01	N	Y	0	567	0	567	MALE	0	567		none	64		NO		NO			NO	none	MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7903-11	TCGA-55-7903-11	N	Y	0	567	0	567	MALE	0	567		none	64		NO		NO			NO	none	MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6543-01	TCGA-55-6543-01	N	Y	0	435	0	435	FEMALE	0	435		none	60								none	MX	N0	T1b					Lung Bronchioloalveolar Carcinoma Mucinous	No
+TCGA-75-6203-01	TCGA-75-6203-01	N	Y	0		0		FEMALE	0			none									none	M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4632-01	TCGA-38-4632-01	N	Y			1	1357	MALE	1	680		none	42		NO		NO			NO	none	M1	N1	T2	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4632-11	TCGA-38-4632-11	N	Y			1	1357	MALE	1	680		none	42		NO		NO			NO	none	M1	N1	T2	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7714-01	TCGA-86-7714-01	N	Y			1	625	FEMALE	1	625		none	61		NO					NO	none	M0	N2	T1b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-5044-01	TCGA-50-5044-01	N	Y			1	624	FEMALE	1	483		none	72								none	M0	N1	T4	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-6562-01	TCGA-86-6562-01	N	Y			1	376	MALE	1	274		none	52							NO	none	M0	N1	T2a		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2666-01	TCGA-44-2666-01	N	Y			1	97	MALE	1	97		none	43							NO	none	M0	N0	T2	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5942-01	TCGA-50-5942-01	N	Y			0	1847	FEMALE	1	1378		none	67								none	M0	N0	T1			NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4389-01	TCGA-05-4389-01	N	Y			0	1369	MALE	0	1369		none	70								none	M0	N0	T1					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-2665-01	TCGA-44-2665-01	N	Y			0	1301	FEMALE	0	1301		none	55							NO	none	M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2665-11	TCGA-44-2665-11	N	Y			0	1301	FEMALE	0	1301		none	55							NO	none	M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-64-1680-01	TCGA-64-1680-01	N	Y			0	1126	MALE	0	1126		none	63								none	M1	N2	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-69-7765-01	TCGA-69-7765-01	N	Y			0	165	MALE	0	165		p.Q486*	56	Other	NO		NO			NO	none	MX	N0	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-5715-01	TCGA-05-5715-01	N	Y			0	62	FEMALE	0	62		none	69								none	M0	N0	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-4410-01	TCGA-05-4410-01	N	Y			0	0	MALE	0	0		p.R377S	62								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-80-5607-01	TCGA-80-5607-01	N	Y			0		FEMALE	0			none									none	M0	N1	T2	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7537-01	TCGA-78-7537-01	N	Y				1622	MALE	0	1622		none	72		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-75-7027-01	TCGA-75-7027-01	Y	Y	1	2949	0	3059	MALE	1	2949		none									none	M0	N0	T2		NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-75-7025-01	TCGA-75-7025-01	Y	Y	1	1481	0	3305	MALE	1	1481		p.ELREA746del									none	M0	N0	T2	YES	YES	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4628-01	TCGA-38-4628-01	Y	Y	1	1083	1	1492	FEMALE	1	1083		p.ELREA746del	65		NO		NO			NO	none	M0	N1	T2	YES	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4628-11	TCGA-38-4628-11	Y	Y	1	1083	1	1492	FEMALE	1	1083		p.ELREA746del	65		NO		NO			NO	none	M0	N1	T2	YES	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-64-5778-01	TCGA-64-5778-01	Y	Y	1	962	0	1305	MALE	1	962		none	60								none	M0	N0	T2	NO	NO	YES	NO	Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-44-7671-01	TCGA-44-7671-01	Y	Y	1	883	0	889	MALE	1	883		none	64								p.T660R	M0	N0	T2a		NO	NO		Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-7671-11	TCGA-44-7671-11	Y	Y	1	883	0	889	MALE	1	883		none	64								p.T660R	M0	N0	T2a		NO	NO		Lung Adenocarcinoma Mixed Subtype	No
+TCGA-78-7539-01	TCGA-78-7539-01	Y	Y	1	688	0	791	FEMALE	1	688		none	75		NO		NO			NO	none	M0	N0	T2b	YES			YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-6146-01	TCGA-44-6146-01	Y	Y	1	631	0	728	MALE	1	631		none	64								none	M0	N0	T3		NO	YES	NO	Lung Mucinous Adenocarcinoma	No
+TCGA-44-6146-11	TCGA-44-6146-11	Y	Y	1	631	0	728	MALE	1	631		none	64								none	M0	N0	T3		NO	YES	NO	Lung Mucinous Adenocarcinoma	No
+TCGA-49-4501-01	TCGA-49-4501-01	Y	Y	1	545	1	1421	FEMALE	1	545		p.ELREA746del	67								none	M0	N0	T2		NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4501-11	TCGA-49-4501-11	Y	Y	1	545	1	1421	FEMALE	1	545		p.ELREA746del	67								none	M0	N0	T2		NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7815-01	TCGA-55-7815-01	Y	Y	1	466	0	773	MALE	1	466		none	76								none	MX	N0	T2a	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4505-01	TCGA-49-4505-01	Y	Y	1	417	1	428	FEMALE	1	417		none	61								none	M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4505-11	TCGA-49-4505-11	Y	Y	1	417	1	428	FEMALE	1	417		none	61								none	M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7281-01	TCGA-55-7281-01	Y	Y	1	339	0	872	FEMALE	1	339		none	70							NO	none	M0	N0	T1b	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7907-01	TCGA-55-7907-01	Y	Y	1	294	1	343	MALE	1	294		none	77								none	MX	N1	T2a	NO		NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-64-5774-01	TCGA-64-5774-01	Y	Y	1	246	0	2676	MALE	1	246		none	60								none	M0	N0	T2	YES		NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4662-01	TCGA-73-4662-01	Y	Y	1	21	0	2515	FEMALE	1	21		none	65		NO		NO			NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4662-11	TCGA-73-4662-11	Y	Y	1	21	0	2515	FEMALE	1	21		none	65		NO		NO			NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7163-01	TCGA-78-7163-01	Y	Y	0	7248	0	7248	MALE	0	7248	Y	none	60		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7163-11	TCGA-78-7163-11	Y	Y	0	7248	0	7248	MALE	0	7248	Y	none	60		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4626-01	TCGA-38-4626-01	Y	Y	0	3674	0	3674	FEMALE	1	2518		none	57								none	M0	N0	T2b		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4626-11	TCGA-38-4626-11	Y	Y	0	3674	0	3674	FEMALE	1	2518		none	57								none	M0	N0	T2b		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-80-5608-01	TCGA-80-5608-01	Y	Y	0	2832	0	2832	FEMALE	0	2832		none									none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6983-01	TCGA-55-6983-01	Y	Y	0	2823	0	2823	MALE	0	2823		none	81		NO		NO			NO	none	M0	N1	T2					Mucinous (Colloid) Carcinoma	No
+TCGA-55-6983-11	TCGA-55-6983-11	Y	Y	0	2823	0	2823	MALE	0	2823		none	81		NO		NO			NO	none	M0	N1	T2					Mucinous (Colloid) Carcinoma	No
+TCGA-44-6776-01	TCGA-44-6776-01	Y	Y	0	2616	0	2616	FEMALE	0	2616		none	60								none	MX	N0	T1		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6776-11	TCGA-44-6776-11	Y	Y	0	2616	0	2616	FEMALE	0	2616		none	60								none	MX	N0	T1		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6642-01	TCGA-55-6642-01	Y	Y	0	2449	0	2449	MALE	0	2449		none	63								none	MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6980-01	TCGA-55-6980-01	Y	Y	0	2109	0	2109	MALE	0	2109		p.709_710ET>D	56		NO		NO			NO	none	M0	N0	T1					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-55-6980-11	TCGA-55-6980-11	Y	Y	0	2109	0	2109	MALE	0	2109		p.709_710ET>D	56		NO		NO			NO	none	M0	N0	T1					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-50-5944-01	TCGA-50-5944-01	Y	Y	0	1750	0	1750	FEMALE	0	1750		p.L858R	69								none	M0	N0	T1					Lung Acinar Adenocarcinoma	No
+TCGA-75-6212-01	TCGA-75-6212-01	Y	Y	0	1516	1	1516	FEMALE	1	1340		p.ELR746del									none	M0	N1	T2			YES	NO	Lung Micropapillary Adenocarcinoma	No
+TCGA-50-5941-01	TCGA-50-5941-01	Y	Y	0	1474	0	1474	FEMALE	0	1474		none	55								none	M0	N2	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6981-01	TCGA-55-6981-01	Y	Y	0	1379	0	1379	FEMALE	0	1379		p.LREAT747del	53		NO		NO			NO	none	M0	N2	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6981-11	TCGA-55-6981-11	Y	Y	0	1379	0	1379	FEMALE	0	1379		p.LREAT747del	53		NO		NO			NO	none	M0	N2	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7540-01	TCGA-78-7540-01	Y	Y	0	1197		1197	FEMALE	0	1197		none	66		NO		NO			NO	none	M0	N0	T2					Lung Bronchioloalveolar Carcinoma Mucinous	No
+TCGA-78-7540-11	TCGA-78-7540-11	Y	Y	0	1197		1197	FEMALE	0	1197		none	66		NO		NO			NO	none	M0	N0	T2					Lung Bronchioloalveolar Carcinoma Mucinous	No
+TCGA-73-7498-01	TCGA-73-7498-01	Y	Y	0	1189	0	1189	FEMALE	0	1189		none	58		NO		NO			NO	none	M0	N0	T1b					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-44-2661-01	TCGA-44-2661-01	Y	Y	0	1159	0	1159	FEMALE	0	1159		p.ELREA746del	69							NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2661-11	TCGA-44-2661-11	Y	Y	0	1159	0	1159	FEMALE	0	1159		p.ELREA746del	69							NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7713-01	TCGA-86-7713-01	Y	Y	0	1157	0	1157	MALE	0	1157		none	70							NO	none	M0	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7713-11	TCGA-86-7713-11	Y	Y	0	1157	0	1157	MALE	0	1157		none	70							NO	none	M0	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4627-01	TCGA-38-4627-01	Y	Y	0	1147		1147	FEMALE	0	1147		p.L62R, p.L858R	64								none	M0	N1	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4627-11	TCGA-38-4627-11	Y	Y	0	1147		1147	FEMALE	0	1147		p.L62R, p.L858R	64								none	M0	N1	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6777-01	TCGA-44-6777-01	Y	Y	0	987	0	987	FEMALE	0	987		none	85								none	MX	NX	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6777-11	TCGA-44-6777-11	Y	Y	0	987	0	987	FEMALE	0	987		none	85								none	MX	NX	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6147-01	TCGA-44-6147-01	Y	Y	0	845	0	845	FEMALE	0	845		p.S768I, p.V769L	67								none	M0	NX	T1b		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6147-11	TCGA-44-6147-11	Y	Y	0	845	0	845	FEMALE	0	845		p.S768I, p.V769L	67								none	M0	NX	T1b		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-7554-01	TCGA-97-7554-01	Y	Y	0	775	0	775	FEMALE	0	775		none	83					G12V	YES	YES	none	M0	N2	T2a					Lung Papillary Adenocarcinoma	No
+TCGA-44-7672-01	TCGA-44-7672-01	Y	Y	0	719	0	719	FEMALE	0	719		none	52								none	M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7672-11	TCGA-44-7672-11	Y	Y	0	719	0	719	FEMALE	0	719		none	52								none	M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7728-01	TCGA-55-7728-01	Y	Y	0	704	0	704	FEMALE	0	704		none	64		NO		NO			NO	none	MX	N0	T2a					Mucinous (Colloid) Carcinoma	No
+TCGA-44-7659-01	TCGA-44-7659-01	Y	Y	0	691	0	691	MALE	0	691		none	70							NO	none	MX	N0	T1b		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7659-11	TCGA-44-7659-11	Y	Y	0	691	0	691	MALE	0	691		none	70							NO	none	MX	N0	T1b		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-93-7347-01	TCGA-93-7347-01	Y	Y	0	683	0	683	FEMALE	0	683		none	76		NO		NO			NO	none	MX	N0	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-7576-01	TCGA-55-7576-01	Y	Y	0	670	0	670	MALE	0	670		none	54								none	M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7576-11	TCGA-55-7576-11	Y	Y	0	670	0	670	MALE	0	670		none	54								none	M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7726-01	TCGA-55-7726-01	Y	Y	0	652	0	652	FEMALE	0	652		none	72								none	MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7726-11	TCGA-55-7726-11	Y	Y	0	652	0	652	FEMALE	0	652		none	72								none	MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6145-01	TCGA-44-6145-01	Y	Y	0	595	0	595	FEMALE	0	595		none	62						NO	NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6145-11	TCGA-44-6145-11	Y	Y	0	595	0	595	FEMALE	0	595		none	62						NO	NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7911-01	TCGA-55-7911-01	Y	Y	0	537	0	537	FEMALE	1	515		none	70		NO		NO			NO	none	MX	N0	T1a	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7911-11	TCGA-55-7911-11	Y	Y	0	537	0	537	FEMALE	1	515		none	70		NO		NO			NO	none	MX	N0	T1a	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7573-01	TCGA-55-7573-01	Y	Y	0	487	0	487	FEMALE	0	487		p.K754E, p.ELR746del	72		NO		NO			NO	none	MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-7941-01	TCGA-97-7941-01	Y	Y	0	484	0	484	FEMALE	0	484		none	72		YES		NO	G12A	YES	YES	none	MX	N0	T1b					Lung Acinar Adenocarcinoma	No
+TCGA-55-7725-01	TCGA-55-7725-01	Y	Y	0	442	0	442	FEMALE	0	442		none	68		NO		NO			NO	none	MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7725-11	TCGA-55-7725-11	Y	Y	0	442	0	442	FEMALE	0	442		none	68		NO		NO			NO	none	MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-7980-01	TCGA-69-7980-01	Y	Y	0	411	0	411	FEMALE	0	411		none	70	Other	YES		NO			NO	none	M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-6761-01	TCGA-49-6761-01	Y	Y	0	354	0	354	FEMALE	0	354		none	68								p.S441C	MX	N2	T1			NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-6761-11	TCGA-49-6761-11	Y	Y	0	354	0	354	FEMALE	0	354		none	68								p.S441C	MX	N2	T1			NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6828-01	TCGA-91-6828-01	Y	Y	0	323	0	323	MALE	0	323		none	70							NO	none	M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6828-11	TCGA-91-6828-11	Y	Y	0	323	0	323	MALE	0	323		none	70							NO	none	M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-67-6215-01	TCGA-67-6215-01	Y	Y	0	174	0	174	FEMALE	0	174	Y	none	52		NO		NO			NO	none	M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-67-6216-01	TCGA-67-6216-01	Y	Y	0	141	0	141	FEMALE	0	141	Y	none	57		NO		NO			NO	none	M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6835-01	TCGA-91-6835-01	Y	Y	0	79	0	79	FEMALE	0	79		p.L858R	81		NO					NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6835-11	TCGA-91-6835-11	Y	Y	0	79	0	79	FEMALE	0	79		p.L858R	81		NO					NO	none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-7938-01	TCGA-97-7938-01	Y	Y	0	18	0	18	FEMALE	0	18		none	76		YES		NO	G12C	YES	YES	none	MX	N0	T1a					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-75-7030-01	TCGA-75-7030-01	Y	Y	0		0		MALE	0			none									none	M0	N0	T3	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-75-6207-01	TCGA-75-6207-01	Y	Y	0				MALE	0			p.ELREA746del									none	M0	N2	T2			NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7167-01	TCGA-78-7167-01	Y	Y			1	2681	MALE	1	726		none	77		NO		NO			NO	none	M1	N0	T2	NO	NO	NO	NO	Lung Papillary Adenocarcinoma	No
+TCGA-50-5932-01	TCGA-50-5932-01	Y	Y			1	1235	MALE	1	1090		none	75								none	M0	N1	T2	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5932-11	TCGA-50-5932-11	Y	Y			1	1235	MALE	1	1090		none	75								none	M0	N1	T2	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4494-01	TCGA-49-4494-01	Y	Y			1	1081	MALE	1	1081		p.T790M, p.L858R	77								none	M0	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4494-11	TCGA-49-4494-11	Y	Y			1	1081	MALE	1	1081		p.T790M, p.L858R	77								none	M0	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4510-01	TCGA-49-4510-01	Y	Y			1	896	FEMALE	1	502		none	51								none	M0	N1	T2	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4510-11	TCGA-49-4510-11	Y	Y			1	896	FEMALE	1	502		none	51								none	M0	N1	T2	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7145-01	TCGA-78-7145-01	Y	Y			1	826	FEMALE	1	422		none	52		NO		NO			NO	none	M1	N1	T4	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4659-01	TCGA-73-4659-01	Y	Y			1	711	MALE	1	35		none	66		NO		NO			NO	none	M0	N2	T2	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4659-11	TCGA-73-4659-11	Y	Y			1	711	MALE	1	35		none	66		NO		NO			NO	none	M0	N2	T2	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7147-01	TCGA-78-7147-01	Y	Y			1	586	FEMALE	1	578		p.L387M, p.L861Q, p.D1083fs	67		NO		NO			NO	none	M0	N1	T2	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5051-01	TCGA-50-5051-01	Y	Y			1	478	FEMALE	1	184		none	42		YES			Other	YES	YES	none	M0	N2	T2	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6970-01	TCGA-55-6970-01	Y	Y			1	464	FEMALE	1	457		none	67		NO		NO			NO	none	MX	N2	T2		NO	NO	NO	Lung Papillary Adenocarcinoma	No
+TCGA-55-6970-11	TCGA-55-6970-11	Y	Y			1	464	FEMALE	1	457		none	67		NO		NO			NO	none	MX	N2	T2		NO	NO	NO	Lung Papillary Adenocarcinoma	No
+TCGA-49-4490-01	TCGA-49-4490-01	Y	Y			1	385	FEMALE	1	385		p.L858R	45								none	M0	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-4490-11	TCGA-49-4490-11	Y	Y			1	385	FEMALE	1	385		p.L858R	45								none	M0	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7161-01	TCGA-78-7161-01	Y	Y			1	291	FEMALE	1	162		none	69		YES		NO			NO	none	M0	N0	T3		NO			Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-6595-01	TCGA-50-6595-01	Y	Y			1	189	FEMALE	1	182		p.G719A, p.S768I	74		YES		YES			YES	none	M0	N2	T2	YES	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6595-11	TCGA-50-6595-11	Y	Y			1	189	FEMALE	1	182		p.G719A, p.S768I	74		YES		YES			YES	none	M0	N2	T2	YES	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7914-01	TCGA-55-7914-01	Y	Y			1	187	FEMALE	1	187		none	71		YES	FISH	YES	G12C	YES	YES	none	MX	N1	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7914-11	TCGA-55-7914-11	Y	Y			1	187	FEMALE	1	187		none	71		YES	FISH	YES	G12C	YES	YES	none	MX	N1	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4415-01	TCGA-05-4415-01	Y	Y			1	91	MALE	1	60		none	57								none	M0	N2	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-64-5775-01	TCGA-64-5775-01	Y	Y			1	62	MALE	1	62		none	71								none	M0	N0	T4					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Yes
+TCGA-05-4249-01	TCGA-05-4249-01	Y	Y			0	1523	MALE	0	1523		none	67								none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4390-01	TCGA-05-4390-01	Y	Y			0	1126	FEMALE	1	395		none	58								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-91-6847-01	TCGA-91-6847-01	Y	Y			0	842	FEMALE	1	772		p.L861Q	62							NO	p.Y321H	MX	N0	T2	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6847-11	TCGA-91-6847-11	Y	Y			0	842	FEMALE	1	772		p.L861Q	62							NO	p.Y321H	MX	N0	T2	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-99-7458-01	TCGA-99-7458-01	Y	Y			0	747	FEMALE	0	747		none	74		YES	RT-PCR	YES	G12A	YES	YES	none	M0	N0	T4					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-05-4433-01	TCGA-05-4433-01	Y	Y			0	730	MALE	0	730		none	82								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-7283-01	TCGA-55-7283-01	Y	Y			0	609	FEMALE	0	609		none	76		NO		NO			NO	none	MX	N2	T3					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-55-7283-11	TCGA-55-7283-11	Y	Y			0	609	FEMALE	0	609		none	76		NO		NO			NO	none	MX	N2	T3					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-05-4403-01	TCGA-05-4403-01	Y	Y			0	578	MALE	0	578		none	76								p.H476Y	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-67-3772-01	TCGA-67-3772-01	Y	Y			0	573	FEMALE	0	573		p.L858R	82		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-95-7567-01	TCGA-95-7567-01	Y	Y			0	568	MALE	0	568		none	61								none	M0	N1	T2b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-4417-01	TCGA-05-4417-01	Y	Y			0	455	FEMALE	0	455		none	51								none	M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-38-6178-01	TCGA-38-6178-01	Y	Y			0	448	FEMALE	0	448		p.ELREA746del	70	Exon 19 Deletion	YES		NO		NO	YES	none		N2	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-67-3773-01	TCGA-67-3773-01	Y	Y			0	427	FEMALE	0	427		none	84		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-53-7813-01	TCGA-53-7813-01	Y	Y			0	424	FEMALE	0	424		none	51		NO		NO			NO	none	M0	N0	T4					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-67-6217-01	TCGA-67-6217-01	Y	Y			0	422	FEMALE	1	296		p.L858R	73	L858R	YES	RT-PCR	YES		NO	YES	none	M0	N1	T2a	NO	NO	YES		Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-67-3774-01	TCGA-67-3774-01	Y	Y			0	385	FEMALE	0	385		none	73		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4402-01	TCGA-05-4402-01	Y	Y			0	244	FEMALE	0	244		p.TSPKANKE751del	57								none	M1	NX	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-69-7760-01	TCGA-69-7760-01	Y	Y			0	202	MALE	0	202		p.709_710ET>D	73		YES		NO			NO	none	M0	N0	T3					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-5423-01	TCGA-05-5423-01	Y	Y			0	151	MALE	0	151		p.L833F, p.L861Q	65								none	M0	N1	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-91-6849-01	TCGA-91-6849-01	Y	Y			0	35	FEMALE	0	35		none	75		YES					NO	none	MX	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6849-11	TCGA-91-6849-11	Y	Y			0	35	FEMALE	0	35		none	75		YES					NO	none	MX	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-35-3615-01	TCGA-35-3615-01	Y	Y			0	14	MALE	0	14		none	57		NO		NO			NO	none	M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4395-01	TCGA-05-4395-01	Y	Y			0	0	MALE	0	0		none	76								none	M0	N2	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-75-5126-01	TCGA-75-5126-01	Y	Y			0		FEMALE	0			none			NO		NO			NO	none	M0	N2	T3		NO	NO	NO	Lung Papillary Adenocarcinoma	No
+TCGA-64-1681-01	TCGA-64-1681-01	Y	Y				1167	FEMALE	1	439		p.L858R	61	Exon 19 Deletion	YES				NO	YES	none	M0	N0	T1		NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7160-01	TCGA-78-7160-01	Y	Y				697	MALE	0	697		none	61		NO		NO			NO	none	M1	N2	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-78-7148-01	TCGA-78-7148-01	Y	Y				626	MALE	1	182		none	71		NO		NO			NO	none	M0	N1	T2	YES	NO			Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-4418-01	TCGA-05-4418-01	Y	Y				274	MALE	0	274		none	69								none	M0	N2	T3					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-78-7166-01	TCGA-78-7166-01	Y	Y				258	MALE	0	258		none	84		NO		NO			NO	none	M0	N1	T2			NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6673-01	TCGA-50-6673-01	Y	Y				22	FEMALE	0	22		p.773_774insH	84								none	M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-AARR-01	TCGA-49-AARR-01			1	4812	0	4992	MALE	1	1099			68									MX	N0	T1		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-8662-01	TCGA-78-8662-01			1	3044		3361	FEMALE	1	3044			53		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-AAR3-01	TCGA-49-AAR3-01			1	1893	0	1893	MALE	1	1893			69									MX	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-75-5125-01	TCGA-75-5125-01			1	1752	1	2027	MALE	1	1752					NO		NO			NO		M0	N1	T2		NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-AARO-01	TCGA-49-AARO-01			1	1144	0	3759	FEMALE	1	1144			39									MX	N0	T1a		NO	YES	NO	Lung Papillary Adenocarcinoma	No
+TCGA-55-7910-01	TCGA-55-7910-01			1	1018	0	1040	FEMALE	1	1018			50									M0	N0	T2b			NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7910-11	TCGA-55-7910-11			1	1018	0	1040	FEMALE	1	1018			50									M0	N0	T2b			NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-A46O-01	TCGA-62-A46O-01			1	943	1	1454	FEMALE	1	943			65		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8669-01	TCGA-86-8669-01			1	849	0	938	MALE	1	849			64							NO		M0	N0	T1b	NO		YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7955-01	TCGA-86-7955-01			1	820	0	1072	MALE	1	820			62		NO					NO		M0	N0	T2a		NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-8402-01	TCGA-62-8402-01			1	772	1	1498	FEMALE	1	772			73	Exon 19 Deletion	YES		NO			NO		M0	N2	T2	NO		YES	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-MP-A4TA-01	TCGA-MP-A4TA-01			1	725	1	950	FEMALE	1	725			75		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6984-01	TCGA-55-6984-01			1	724	1	760	FEMALE	1	724			71		NO		NO			NO		M0	N1	T2	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6984-11	TCGA-55-6984-11			1	724	1	760	FEMALE	1	724			71		NO		NO			NO		M0	N1	T2	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8673-01	TCGA-86-8673-01			1	636	0	862	MALE	1	636			61									M0	N0	T2		YES	NO	NO	Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-MP-A4T2-01	TCGA-MP-A4T2-01			1	575	1	1136	MALE	1	575			71		NO		NO			NO		M0	N0	T1	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8096-01	TCGA-55-8096-01			1	566	1	719	FEMALE	1	566			67		NO		NO			NO		MX	N0	T2a	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8090-01	TCGA-55-8090-01			1	548	1	598	MALE	1	548			80									M0	N0	T1a	NO		NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-A470-01	TCGA-62-A470-01			1	539	1	1194	MALE	1	539			84		NO		NO			NO		M0	N0	T2					Lung Acinar Adenocarcinoma	No
+TCGA-62-A46S-01	TCGA-62-A46S-01			1	527	1	1653	MALE	1	527			73		NO		NO			NO		M0	N0	T2					Lung Papillary Adenocarcinoma	No
+TCGA-38-4630-01	TCGA-38-4630-01			1	524	1	1073	FEMALE	1	524			75		NO		NO			NO		M0	N0	T2	NO	NO	NO	YES	Lung Papillary Adenocarcinoma	No
+TCGA-38-4630-11	TCGA-38-4630-11			1	524	1	1073	FEMALE	1	524			75		NO		NO			NO		M0	N0	T2	NO	NO	NO	YES	Lung Papillary Adenocarcinoma	No
+TCGA-55-A4DF-01	TCGA-55-A4DF-01			1	515	1	614	MALE	1	515			88									MX	N0	T1b	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-3918-01	TCGA-44-3918-01			1	511	0	1036	FEMALE	1	511			60							NO		M0	N0	T1		NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-3918-11	TCGA-44-3918-11			1	511	0	1036	FEMALE	1	511			60							NO		M0	N0	T1		NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8208-01	TCGA-55-8208-01			1	511	0	674	FEMALE	1	511			73									M0	N0	T1b	YES			YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-AAQV-01	TCGA-49-AAQV-01			1	509	0	677	FEMALE	1	509			63	Exon 19 Deletion	YES	FISH	YES					MX	N1	T1					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-MP-A4SY-01	TCGA-MP-A4SY-01			1	489	0	1501	MALE	1	489			61		NO		NO			NO		M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7913-01	TCGA-55-7913-01			1	480	1	561	FEMALE	1	480			61		YES	FISH	YES		NO	YES		MX	N0	T1b	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5066-01	TCGA-50-5066-01			1	477	0	1442	MALE	1	477			72		YES		YES		NO	YES		M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-5066-02	TCGA-50-5066-02			1	477	0	1442	MALE	1	477			72		YES		YES		NO	YES		M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-7995-01	TCGA-55-7995-01			1	468	0	889	FEMALE	1	468			73		NO		NO					M0	N0	T1b		NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8511-01	TCGA-55-8511-01			1	460	0	552	FEMALE	1	460			73									MX	N0	T2a	NO	NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-A4JF-01	TCGA-86-A4JF-01			1	436	1	737	MALE	1	436			56		NO		NO			NO		M0	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2668-01	TCGA-44-2668-01			1	433	1	761	MALE	1	433			51							NO		M0	N0	T2	NO	YES		YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-2668-11	TCGA-44-2668-11			1	433	1	761	MALE	1	433			51							NO		M0	N0	T2	NO	YES		YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6144-01	TCGA-44-6144-01			1	399	0	723	MALE	1	399			58									M0	N0	T1a	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6144-11	TCGA-44-6144-11			1	399	0	723	MALE	1	399			58									M0	N0	T1a	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4TK-01	TCGA-MP-A4TK-01			1	397	1	582	FEMALE	1	397			56		NO		NO			NO		MX	N1	T2	NO		YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-A47A-01	TCGA-44-A47A-01			1	397	0	466	FEMALE	1	397			78		NO		NO			NO		MX	N0	T2a	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-8395-01	TCGA-62-8395-01			1	395	0	1216	FEMALE	1	395			80		YES		NO			NO		M0	N0	T3		NO	YES	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-7669-01	TCGA-44-7669-01			1	390	1	574	MALE	1	390			59							NO		MX	N1	T1b	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7669-11	TCGA-44-7669-11			1	390	1	574	MALE	1	390			59							NO		MX	N1	T1b	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-L9-A50W-01	TCGA-L9-A50W-01			1	389	1	442	MALE	1	389			75	T790M	YES	FISH	YES			NO		MX	N1	T1b	NO	NO	NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-49-AARE-01	TCGA-49-AARE-01			1	388	1	1229	FEMALE	1	388			51									MX	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4629-01	TCGA-38-4629-01			1	379	1	864	MALE	1	379			68		NO		NO			NO		M0	N0	T3	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4629-11	TCGA-38-4629-11			1	379	1	864	MALE	1	379			68		NO		NO			NO		M0	N0	T3	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4T9-01	TCGA-MP-A4T9-01			1	341	1	1265	FEMALE	1	341			54		NO		NO			NO		MX	N2	T2		YES	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7661-01	TCGA-44-7661-01			1	335	1	557	FEMALE	1	335			69		YES		YES					M0	N0	T2a	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7661-11	TCGA-44-7661-11			1	335	1	557	FEMALE	1	335			69		YES		YES					M0	N0	T2a	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8674-01	TCGA-86-8674-01			1	334	0	806	MALE	1	334			50									M0	N1	T2a					Lung Papillary Adenocarcinoma	No
+TCGA-55-8513-01	TCGA-55-8513-01			1	317	0	791	FEMALE	1	317			77		YES		YES					MX	N0	T3	NO	NO	YES	NO	Mucinous (Colloid) Carcinoma	No
+TCGA-62-A46Y-01	TCGA-62-A46Y-01			1	314	1	414	FEMALE	1	314			70		NO		NO			NO		M0	N2	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-38-7271-01	TCGA-38-7271-01			1	304	1	800	FEMALE	1	304			72		NO		NO			NO		M0	N0	T1	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-8175-01	TCGA-97-8175-01			1	294	0	551	FEMALE	1	294			55		YES	FISH	YES		NO	YES		M0	N0	T2a		YES	YES	YES	Lung Solid Pattern Predominant Adenocarcinoma	No
+TCGA-62-A472-01	TCGA-62-A472-01			1	290	0	910	MALE	1	290			70		NO		NO			NO		M0	N0	T3		NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8299-01	TCGA-55-8299-01			1	274	1	469	FEMALE	1	274			61									MX	N0	T1b	NO	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-A46P-01	TCGA-62-A46P-01			1	267	0	594	MALE	1	267			65		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-A4SU-01	TCGA-44-A4SU-01			1	260	1	409	FEMALE	1	260			67									MX	N0	T1a		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7227-01	TCGA-55-7227-01			1	255	1	952	MALE	1	255			77									MX	N1	T3		NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8301-01	TCGA-55-8301-01			1	238	0	534	MALE	1	238			58									MX	N0	T2a	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4668-01	TCGA-73-4668-01			1	236	0	467	FEMALE	1	236			66		NO		NO			NO		M0	N1	T2	NO	NO	YES	YES	Lung Micropapillary Adenocarcinoma	No
+TCGA-73-4668-11	TCGA-73-4668-11			1	236	0	467	FEMALE	1	236			66		NO		NO			NO		M0	N1	T2	NO	NO	YES	YES	Lung Micropapillary Adenocarcinoma	No
+TCGA-55-7284-01	TCGA-55-7284-01			1	231	1	243	MALE	1	231			74									MX	N0	T3	NO	NO	NO	NO	Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-95-8039-01	TCGA-95-8039-01			1	228	0	830	MALE	1	228			72									MX	N0	T1		NO	YES	YES	Lung Acinar Adenocarcinoma	No
+TCGA-MP-A4TE-01	TCGA-MP-A4TE-01			1	226	1	896	MALE	1	226			56		NO		NO	G12C	YES	YES		MX	N0	T2b	NO				Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4TD-01	TCGA-MP-A4TD-01			1	226		307	MALE	1	226			71		NO		NO			NO		M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8615-01	TCGA-55-8615-01			1	224	0	446	MALE	1	224			67									MX	N2	T3	NO	NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8075-01	TCGA-86-8075-01			1	199	0	694	FEMALE	1	199			66		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-71-8520-01	TCGA-71-8520-01			1	179	1	210	FEMALE	1	179			60						NO	YES		M0	N0	T2		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8092-01	TCGA-55-8092-01			1	127	1	154	MALE	1	127			75									MX	N0	T3		NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8278-01	TCGA-86-8278-01			1	29	0	944	FEMALE	1	29			63							NO		M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-8640-01	TCGA-78-8640-01			0	7062	0	7062	MALE	0	7062			59		NO		NO			NO		M0	N1	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-AARQ-01	TCGA-49-AARQ-01			0	6732	0	6732	FEMALE	0	6732			41									MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-AAR0-01	TCGA-49-AAR0-01			0	4765	0	4765	MALE	0	4765			57									MX	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4625-01	TCGA-38-4625-01			0	2973	0	2973	FEMALE	0	2973			66		NO		NO			NO		M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-38-4625-11	TCGA-38-4625-11			0	2973	0	2973	FEMALE	0	2973			66		NO		NO			NO		M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-8399-01	TCGA-62-8399-01			0	2696	0	2696	MALE	0	2696			62		NO		NO			NO		M0	N2	T2					Lung Papillary Adenocarcinoma	No
+TCGA-MP-A4SV-01	TCGA-MP-A4SV-01			0	2620		2620	MALE	0	2620			67		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4T4-01	TCGA-MP-A4T4-01			0	2617		2617	FEMALE	0	2617			68		NO		NO			NO		M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-80-5611-01	TCGA-80-5611-01			0	2595	0	2595	MALE	0	2595												M0	N0	T2					Lung Solid Pattern Predominant Adenocarcinoma	No
+TCGA-75-6206-01	TCGA-75-6206-01			0	2590	0	2590	MALE	0	2590												M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-8655-01	TCGA-78-8655-01			0	2360	0	2360	FEMALE	0	2360			77		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-MP-A5C7-01	TCGA-MP-A5C7-01			0	2248	0	2248	FEMALE	0	2248			76		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-AAR2-01	TCGA-49-AAR2-01			0	2224	0	2224	MALE	0	2224			64									MX	N0	T2					Lung Acinar Adenocarcinoma	No
+TCGA-62-A46V-01	TCGA-62-A46V-01			0	2199	0	2199	FEMALE	0	2199			78		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-6987-01	TCGA-55-6987-01			0	2137	0	2137	MALE	0	2137			77		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-A46U-01	TCGA-62-A46U-01			0	2067	0	2067	FEMALE	0	2067			71		NO		NO			NO		M0	N1	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-6778-01	TCGA-44-6778-01			0	1864	0	1864	MALE	0	1864			59									MX	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-6778-11	TCGA-44-6778-11			0	1864	0	1864	MALE	0	1864			59									MX	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4T6-01	TCGA-MP-A4T6-01			0	1790	0	1790	FEMALE	0	1790			76		NO		NO			NO		MX	N2	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4SW-01	TCGA-MP-A4SW-01			0	1778		1778	MALE	0	1778			53		NO		NO			NO		M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-A46R-01	TCGA-62-A46R-01			0	1725	0	1725	FEMALE	0	1725			54		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-49-6743-01	TCGA-49-6743-01			0	1621	0	1621	FEMALE	0	1621			81									MX	N2	T1					Lung Clear Cell Adenocarcinoma	No
+TCGA-49-6743-11	TCGA-49-6743-11			0	1621	0	1621	FEMALE	0	1621			81									MX	N2	T1					Lung Clear Cell Adenocarcinoma	No
+TCGA-55-1595-01	TCGA-55-1595-01			0	1479	0	1479	FEMALE	0	1479			74									M0	N0	T1					Lung Clear Cell Adenocarcinoma	No
+TCGA-55-1595-11	TCGA-55-1595-11			0	1479	0	1479	FEMALE	0	1479			74									M0	N0	T1					Lung Clear Cell Adenocarcinoma	No
+TCGA-62-8397-01	TCGA-62-8397-01			0	1289	0	1289	FEMALE	0	1289			70		NO		NO			NO		M0	N0	T3					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-6590-01	TCGA-50-6590-01			0	1288	0	1288	FEMALE	0	1288			72		YES							M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-A471-01	TCGA-62-A471-01			0	1246	0	1246	MALE	0	1246			64		NO		NO			NO		M0	N1	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-3917-01	TCGA-44-3917-01			0	1183	0	1183	FEMALE	0	1183			33							NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MN-A4N4-01	TCGA-MN-A4N4-01			0	1175	0	1175	MALE	0	1175			57		NO		NO			NO		M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-3398-01	TCGA-44-3398-01			0	1163	0	1163	FEMALE	0	1163			77							NO		M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-3398-11	TCGA-44-3398-11			0	1163	0	1163	FEMALE	0	1163			77							NO		M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8054-01	TCGA-86-8054-01			0	1148	0	1148	MALE	0	1148			61		NO		NO			NO		M0	N1	T2b					Lung Acinar Adenocarcinoma	No
+TCGA-49-AARN-01	TCGA-49-AARN-01			0	1135		1135	FEMALE	0	1135			56									MX	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-8457-01	TCGA-50-8457-01			0	1125	0	1125	FEMALE	0	1125			63		YES	FISH	YES	G12A	YES	YES		M0	N0	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-99-8028-01	TCGA-99-8028-01			0	1118	0	1118	FEMALE	0	1118			50		YES	RT-PCR	YES	G12C	YES	YES		M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7667-01	TCGA-44-7667-01			0	1097	0	1097	FEMALE	0	1097			49							NO		MX	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7667-11	TCGA-44-7667-11			0	1097	0	1097	FEMALE	0	1097			49							NO		MX	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-J2-A4AE-01	TCGA-J2-A4AE-01			0	1079	0	1079	FEMALE	0	1079			77		NO		NO			NO		MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-99-8025-01	TCGA-99-8025-01			0	1060	0	1060	FEMALE	0	1060			72		YES		YES		NO	YES		M0	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7953-01	TCGA-86-7953-01			0	997	0	997	FEMALE	0	997			69		NO							M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8076-01	TCGA-86-8076-01			0	993	0	993	MALE	0	993			42		NO		NO			NO		M0	N0	T1					Lung Papillary Adenocarcinoma	No
+TCGA-J2-A4AG-01	TCGA-J2-A4AG-01			0	988	0	988	FEMALE	0	988			66		NO		NO			NO		MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8207-01	TCGA-55-8207-01			0	977	0	977	MALE	0	977			73									MX	N0	T2a					Lung Acinar Adenocarcinoma	No
+TCGA-86-8279-01	TCGA-86-8279-01			0	949	0	949	MALE	0	949			46							NO		M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-5899-01	TCGA-55-5899-01			0	930	0	930	MALE	0	930			58									M0	N1	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8085-01	TCGA-55-8085-01			0	904	0	904	MALE	0	904			64									M0	N0	T1b					Lung Papillary Adenocarcinoma	No
+TCGA-86-A456-01	TCGA-86-A456-01			0	896	0	896	FEMALE	0	896			78									M0	N0	T1a					Lung Papillary Adenocarcinoma	No
+TCGA-55-8206-01	TCGA-55-8206-01			0	888	0	888	MALE	0	888			56									M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-64-5815-01	TCGA-64-5815-01			0	866	0	866	MALE	0	866			74		YES					YES		M0	N1	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-5644-01	TCGA-44-5644-01			0	863	0	863	FEMALE	0	863			51										N0	T2a		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8671-01	TCGA-86-8671-01			0	839	0	839	FEMALE	0	839			72									M0	N1	T2b					Lung Papillary Adenocarcinoma	No
+TCGA-50-8460-01	TCGA-50-8460-01			0	829	0	829	MALE	0	829			74		YES				NO	YES		M0	N0	T1a					Lung Papillary Adenocarcinoma	No
+TCGA-MN-A4N1-01	TCGA-MN-A4N1-01			0	827	0	827	MALE	0	827			60		YES	IHC	YES			NO		M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7570-01	TCGA-55-7570-01			0	824	0	824	MALE	0	824			60									MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7570-11	TCGA-55-7570-11			0	824	0	824	MALE	0	824			60									MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-A4P8-01	TCGA-86-A4P8-01			0	805	0	805	FEMALE	0	805			59		YES	FISH	YES			NO		MX	N2	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4427-01	TCGA-05-4427-01			0	791	0	791	FEMALE	0	791			65									M0	N1	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-MP-A4TH-01	TCGA-MP-A4TH-01			0	741	0	741	FEMALE	0	741			70		NO		NO			NO		M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8073-01	TCGA-86-8073-01			0	740	0	740	MALE	0	740			58		NO		NO			NO		M0	N0	T2a					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-44-6148-01	TCGA-44-6148-01			0	704	0	704	MALE	0	704			60						NO	NO		M0	N0	T1b		NO			Lung Mucinous Adenocarcinoma	No
+TCGA-44-6148-11	TCGA-44-6148-11			0	704	0	704	MALE	0	704			60						NO	NO		M0	N0	T1b		NO			Lung Mucinous Adenocarcinoma	No
+TCGA-55-8089-01	TCGA-55-8089-01			0	702	0	702	MALE	0	702			56		YES		YES		NO	YES		M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8280-01	TCGA-86-8280-01			0	701	0	701	FEMALE	0	701			54							NO		M0	N0	T2b					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-55-A48X-01	TCGA-55-A48X-01			0	689	0	689	FEMALE	1	615			63									M0	N1	T1b		YES	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-L9-A743-01	TCGA-L9-A743-01			0	664	0	664	MALE	0	664			56		NO		NO			NO		M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-99-AA5R-01	TCGA-99-AA5R-01			0	658	0	658	FEMALE	0	658			70		YES	IHC	YES	G12C	YES	YES		M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-8547-01	TCGA-97-8547-01			0	657	0	657	FEMALE	0	657			78	Exon 19 Deletion	YES		NO		NO	YES		MX	N2	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-86-8358-01	TCGA-86-8358-01			0	653	0	653	MALE	0	653			44							NO		M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-A4M0-01	TCGA-97-A4M0-01			0	652	0	652	FEMALE	0	652			60		NO		NO	G12C	YES	YES		M0	N0	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-97-A4M5-01	TCGA-97-A4M5-01			0	634	0	634	MALE	0	634			83		NO		NO	G12C	YES	YES		M0	N0	T1b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-A48Y-01	TCGA-55-A48Y-01			0	630	0	630	MALE	0	630			69									M0	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-A4M7-01	TCGA-97-A4M7-01			0	629	0	629	MALE	0	629			74	L858R	YES		NO		NO	YES		M0	N0	T1b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-A491-01	TCGA-55-A491-01			0	626	0	626	FEMALE	0	626			81		NO		NO			NO		MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-8552-01	TCGA-97-8552-01			0	626	0	626	FEMALE	0	626			55	Exon 19 Deletion	YES		NO		NO	YES		MX	N0	T1a					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-97-A4M2-01	TCGA-97-A4M2-01			0	624	0	624	MALE	0	624			66		NO		NO		NO	YES		M0	N0	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-8508-01	TCGA-55-8508-01			0	617	0	617	FEMALE	0	617			60									MX	N1	T2a					Mucinous (Colloid) Carcinoma	No
+TCGA-97-A4LX-01	TCGA-97-A4LX-01			0	614	0	614	MALE	0	614			81		NO		NO	G12A	YES	YES		M0	N0	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-A4DG-01	TCGA-55-A4DG-01			0	608	0	608	MALE	0	608			71									MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7954-01	TCGA-86-7954-01			0	605	0	605	FEMALE	0	605			68		NO					NO		M0	N0	T2					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-55-7994-01	TCGA-55-7994-01			0	603	0	603	MALE	0	603			81		NO		NO			NO		MX	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-A4BD-01	TCGA-91-A4BD-01			0	603	0	603	MALE	0	603			78		NO					NO		MX	N1	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-A4M1-01	TCGA-97-A4M1-01			0	601	0	601	FEMALE	0	601			52		NO		NO			NO		M0	N0	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-8091-01	TCGA-55-8091-01			0	600	0	600	MALE	0	600			74		NO		NO			NO		MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-A492-01	TCGA-55-A492-01			0	596	0	596	FEMALE	0	596			70		NO		NO			NO		MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-L4-A4E5-01	TCGA-L4-A4E5-01			0	578	0	578	FEMALE	0	578			48		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-A4M6-01	TCGA-97-A4M6-01			0	568	0	568	FEMALE	0	568			45	Exon 19 Deletion	YES		NO		NO	YES		M0	N0	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-L9-A7SV-01	TCGA-L9-A7SV-01			0	565	0	565	MALE	0	565			69		NO		NO			NO		M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8203-01	TCGA-55-8203-01			0	547	0	547	FEMALE	0	547			69		NO		NO			NO		M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-A57B-01	TCGA-55-A57B-01			0	546	0	546	FEMALE	0	546			80		NO		NO			NO		M0	N0	T1b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-97-8172-01	TCGA-97-8172-01			0	545	0	545	FEMALE	0	545			75		YES		NO	G12V	YES	YES		M0	N0	T2a					Lung Acinar Adenocarcinoma	No
+TCGA-97-A4M3-01	TCGA-97-A4M3-01			0	540	0	540	FEMALE	1	54			69		NO		NO		NO	YES		M0	N0	T1b			NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-8510-01	TCGA-55-8510-01			0	539	0	539	FEMALE	0	539			55									MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8614-01	TCGA-55-8614-01			0	536	0	536	MALE	0	536			76									MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-93-A4JQ-01	TCGA-93-A4JQ-01			0	526	0	526	MALE	0	526			49		NO		NO			NO		MX	N0	T1b					Lung Acinar Adenocarcinoma	No
+TCGA-55-8514-01	TCGA-55-8514-01			0	520	0	520	FEMALE	0	520			70									MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8204-01	TCGA-55-8204-01			0	515	0	515	FEMALE	0	515			87									MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8621-01	TCGA-55-8621-01			0	515	0	515	FEMALE	0	515			75									MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-S2-AA1A-01	TCGA-S2-AA1A-01			0	513	0	513	FEMALE	0	513			68		NO		NO			NO		M0	N0	T1b					Lung Bronchioloalveolar Carcinoma Mucinous	No
+TCGA-91-8496-01	TCGA-91-8496-01			0	505	0	505	FEMALE	0	505			63		NO		NO			NO		MX	NX	T2a					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-44-A479-01	TCGA-44-A479-01			0	486	0	486	FEMALE	1	437			73		YES		NO			NO		MX	N0	T2	NO	YES	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-A494-01	TCGA-55-A494-01			0	481	0	481	FEMALE	0	481			61		YES	FISH	YES	G12D	YES	YES		MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8302-01	TCGA-55-8302-01			0	478	0	478	MALE	0	478			54									MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8097-01	TCGA-55-8097-01			0	476	0	476	FEMALE	0	476			60		NO		NO			NO		MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8087-01	TCGA-55-8087-01			0	462	0	462	FEMALE	0	462			59		NO		NO			NO		MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-8398-01	TCGA-62-8398-01			0	444	0	444	MALE	0	444			55		NO		NO			NO		M0	N2	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-8505-01	TCGA-55-8505-01			0	440	0	440	MALE	0	440			62									MX	N2	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-8179-01	TCGA-97-8179-01			0	435	0	435	MALE	0	435			72		YES	FISH	YES		NO	YES		M0	N0	T1a					Lung Acinar Adenocarcinoma	No
+TCGA-L4-A4E6-01	TCGA-L4-A4E6-01			0	435	0	435	MALE	0	435			67		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-8497-01	TCGA-91-8497-01			0	434	0	434	FEMALE	0	434			75							NO		MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-8253-01	TCGA-69-8253-01			0	426	0	426	FEMALE	0	426			59		NO		NO			NO		MX	N1	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-86-8668-01	TCGA-86-8668-01			0	423	0	423	FEMALE	0	423			61							NO		M0	N0	T1b					Lung Bronchioloalveolar Carcinoma Mucinous	No
+TCGA-55-8507-01	TCGA-55-8507-01			0	418	0	418	MALE	0	418			53									MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6836-01	TCGA-91-6836-01			0	417	0	417	FEMALE	0	417			52		NO					NO		MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6836-11	TCGA-91-6836-11			0	417	0	417	FEMALE	0	417			52		NO					NO		MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8619-01	TCGA-55-8619-01			0	416	0	416	FEMALE	0	416			72									MX	N0	T3					Mucinous (Colloid) Carcinoma	No
+TCGA-86-A4P7-01	TCGA-86-A4P7-01			0	415	0	415	FEMALE	0	415			63		NO		NO			NO		M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-A4SS-01	TCGA-44-A4SS-01			0	415	0	415	MALE	0	415			73									M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-8254-01	TCGA-69-8254-01			0	409	0	409	MALE	0	409			85	Other	YES		NO			NO				T2b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-44-8117-01	TCGA-44-8117-01			0	385	0	385	FEMALE	0	385			54									M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8585-01	TCGA-86-8585-01			0	353	0	353	MALE	0	353			57		NO					NO		M0	N0	T2a					Lung Solid Pattern Predominant Adenocarcinoma	No
+TCGA-44-A47G-01	TCGA-44-A47G-01			0	351	0	351	FEMALE	0	351			73		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4TJ-01	TCGA-MP-A4TJ-01			0	339		339	FEMALE	0	339			62		NO		NO			NO		M0	N0	T1					Lung Signet Ring Adenocarcinoma	No
+TCGA-44-A47F-01	TCGA-44-A47F-01			0	337	0	337	MALE	0	337			74									M0	N1	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6831-01	TCGA-91-6831-01			0	310	0	310	MALE	0	310			66							NO		MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6831-11	TCGA-91-6831-11			0	310	0	310	MALE	0	310			66							NO		MX	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-L9-A444-01	TCGA-L9-A444-01			0	307	0	307	FEMALE	0	307			60		NO		NO			NO		MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-A47B-01	TCGA-44-A47B-01			0	287	0	287	MALE	0	287			79		NO		NO			NO		M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-8119-01	TCGA-44-8119-01			0	285	0	285	MALE	0	285			73									M0	N0	T3		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-8120-01	TCGA-44-8120-01			0	260	0	260	MALE	0	260			58									M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-7973-01	TCGA-69-7973-01			0	230	0	230	FEMALE	0	230			42		YES							M0	N0	T2a	NO	NO	NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-91-6848-01	TCGA-91-6848-01			0	224	0	224	MALE	0	224			59						NO	YES		MX	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-L9-A443-01	TCGA-L9-A443-01			0	193	0	193	FEMALE	0	193			63		NO		NO			NO		MX	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-93-8067-01	TCGA-93-8067-01			0	186	0	186	MALE	0	186			77		NO		NO			NO		MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-62-8394-01	TCGA-62-8394-01			0	139	0	139	FEMALE	0	139			65		NO		NO			NO		M0	N2	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-86-8056-01	TCGA-86-8056-01			0	139	0	139	FEMALE	0	139			63		NO		NO			NO		M0	N0	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-38-A44F-01	TCGA-38-A44F-01			0	133	0	133	MALE	0	133			80		NO	FISH	YES			NO		M0	N0	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-86-8055-01	TCGA-86-8055-01			0	124	0	124	MALE	0	124			79		NO					NO		M0	N1	T2a		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-A4D0-01	TCGA-86-A4D0-01			0	116	0	116	MALE	0	116			48		NO		NO			NO		M0	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-95-8494-01	TCGA-95-8494-01			0	84	0	84	MALE	0	84			67		NO		NO			NO		M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MN-A4N5-01	TCGA-MN-A4N5-01			0	84	0	84	MALE	0	84			63		YES	IHC	YES			NO		M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4TC-01	TCGA-MP-A4TC-01			0	74	0	74	MALE	0	74			77		NO		NO			NO		M0	N2	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-99-8032-01	TCGA-99-8032-01			0	44	0	44	MALE	0	44			61		YES		NO	G12C	YES	YES		M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8672-01	TCGA-86-8672-01			0	19	0	19	MALE	0	19			59							NO		M0	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8281-01	TCGA-86-8281-01			0	0	0	0	MALE	0	0			75							NO		M0	NX	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-5045-01	TCGA-50-5045-01					1	2174	FEMALE	1	1433			57									M0	N1	T2		NO	YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-O1-A52J-01	TCGA-O1-A52J-01					1	1798	FEMALE	1	898			74		NO		NO			NO		MX	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6968-01	TCGA-55-6968-01					1	1293	MALE	1	1293			61									M1	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6968-11	TCGA-55-6968-11					1	1293	MALE	1	1293			61									M1	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7711-01	TCGA-86-7711-01					1	1046	MALE	1	1046			70							NO		M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7711-11	TCGA-86-7711-11					1	1046	MALE	1	1046			70							NO		M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-53-7624-01	TCGA-53-7624-01					1	1043	FEMALE	1	400			40		NO		NO			NO		M1	N0	T2	YES		YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-49-AAR4-01	TCGA-49-AAR4-01					1	879	MALE	1	879			51									MX	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-7220-01	TCGA-78-7220-01					1	807	FEMALE	1	531			53		NO		NO			NO		M0	N2	T2	NO	NO	NO	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-6592-01	TCGA-50-6592-01					1	777	FEMALE	1	777			71									M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6592-11	TCGA-50-6592-11					1	777	FEMALE	1	777			71									M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-99-8033-01	TCGA-99-8033-01					1	656	FEMALE	1	656			74		YES		NO		NO	YES		M1	NX	TX					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8512-01	TCGA-55-8512-01					1	607	MALE	1	607			41									M1b	N1	T1a					Lung Bronchioloalveolar Carcinoma Nonmucinous	No
+TCGA-J2-A4AD-01	TCGA-J2-A4AD-01					1	550	FEMALE	1	524			61		NO		NO			NO		MX	N0	T1a			NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-7816-01	TCGA-55-7816-01					1	468	FEMALE	1	468			49									MX	NX	TX					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4TI-01	TCGA-MP-A4TI-01					1	429	MALE	1	84			72		YES		NO	G12C	YES	YES		M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8620-01	TCGA-55-8620-01					1	375	MALE	1	375			60		NO		NO			NO		M1b	N1	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6594-01	TCGA-50-6594-01					1	370	FEMALE	1	285			79				YES		NO			M0	N2	T3	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6594-11	TCGA-50-6594-11					1	370	FEMALE	1	285			79				YES		NO			M0	N2	T3	NO		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-A9RS-01	TCGA-73-A9RS-01					1	340	MALE	1	107			41		YES	FISH	YES		NO	YES		M0	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-MP-A4TF-01	TCGA-MP-A4TF-01					1	336	FEMALE	1	195			58		NO		NO			NO		M0	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-8660-01	TCGA-78-8660-01					1	321	MALE	1	242			69		NO		NO			NO		M0	N1	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-4B-A93V-01	TCGA-4B-A93V-01					1	300	FEMALE	1	251			52									M0	N0	T1b	NO	NO	NO	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-5930-01	TCGA-50-5930-01					1	282	MALE	1	177			47									M0	N2	T2	NO		NO	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-5930-11	TCGA-50-5930-11					1	282	MALE	1	177			47									M0	N2	T2	NO		NO	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-49-AAR9-01	TCGA-49-AAR9-01					1	260	MALE	1	260			61									MX	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6591-01	TCGA-50-6591-01					1	119	FEMALE	1	119			63									M1	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-6591-11	TCGA-50-6591-11					1	119	FEMALE	1	119			63									M1	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6975-01	TCGA-55-6975-01					1	118	MALE	1	118			61		NO		NO			NO		M0	N1	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-6975-11	TCGA-55-6975-11					1	118	MALE	1	118			61		NO		NO			NO		M0	N1	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-L9-A5IP-01	TCGA-L9-A5IP-01					1	58	FEMALE	1	49			40		YES	FISH	YES			NO		M1b	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4677-01	TCGA-73-4677-01					1	38	MALE	1	38			74		NO		NO			NO		M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4677-11	TCGA-73-4677-11					1	38	MALE	1	38			74		NO		NO			NO		M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-NJ-A4YG-01	TCGA-NJ-A4YG-01					0	2261	MALE	0	2261			65									M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-NJ-A4YF-01	TCGA-NJ-A4YF-01					0	2161	FEMALE	0	2161			50		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-97-7547-01	TCGA-97-7547-01					0	1965	FEMALE	1	775			67									MX	N0	T2		YES	YES	NO	Lung Papillary Adenocarcinoma	No
+TCGA-50-5946-01	TCGA-50-5946-01					0	1617	MALE	1	221			62									MX	N0	T1	NO		NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-50-5946-02	TCGA-50-5946-02					0	1617	MALE	1	221			62									MX	N0	T1	NO		NO	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-NJ-A4YQ-01	TCGA-NJ-A4YQ-01					0	1432	FEMALE	0	1432			69		NO		NO			NO		M0	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6969-01	TCGA-55-6969-01					0	1239	MALE	0	1239			52		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-6969-11	TCGA-55-6969-11					0	1239	MALE	0	1239			52		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-50-8459-01	TCGA-50-8459-01					0	1119	MALE	1	432			68		YES			G12C	YES	YES		M0	N0	T3					Mucinous (Colloid) Carcinoma	No
+TCGA-53-A4EZ-01	TCGA-53-A4EZ-01					0	1071	MALE	0	1071			63		YES	FISH	YES		NO	YES		MX	N1	T2a					Lung Acinar Adenocarcinoma	No
+TCGA-44-5643-01	TCGA-44-5643-01					0	1013	MALE	0	1013			53									M0	N2	T2b		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-5643-11	TCGA-44-5643-11					0	1013	MALE	0	1013			53									M0	N2	T2b		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-7701-01	TCGA-86-7701-01					0	947	MALE	1	424			66									M1	N0	T2	NO		YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-5425-01	TCGA-05-5425-01					0	882	MALE	1	486			68									M0	N1	T2b					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-64-5779-01	TCGA-64-5779-01					0	864	MALE	1	795			61									M0	N2	T2	YES		NO	YES	Lung Acinar Adenocarcinoma	No
+TCGA-83-5908-01	TCGA-83-5908-01					0	824	FEMALE	0	824			59		NO		NO			NO		M0	N0	T1	NO	NO	NO	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-8453-01	TCGA-69-8453-01					0	813	MALE	1	344			77									MX	N0	T3					Mucinous (Colloid) Carcinoma	No
+TCGA-73-4666-01	TCGA-73-4666-01					0	800	FEMALE	0	800			52		NO		NO			NO		M1	N0	T1	YES	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4666-11	TCGA-73-4666-11					0	800	FEMALE	0	800			52		NO		NO			NO		M1	N0	T1	YES	NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-J2-8192-01	TCGA-J2-8192-01					0	739	FEMALE	1	482			65	Exon 19 Deletion	YES		NO		NO	YES		MX	N1	T2a	NO	NO	YES	NO	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-J2-8194-01	TCGA-J2-8194-01					0	724	FEMALE	1	470			69									MX	N0	T3	YES	NO	YES	NO	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-93-A4JN-01	TCGA-93-A4JN-01					0	718	MALE	0	718			71		YES	FISH	YES		NO	YES		M1a	N0	T2a					Lung Acinar Adenocarcinoma	No
+TCGA-55-A48Z-01	TCGA-55-A48Z-01					0	651	FEMALE	1	536			60	Other	YES	FISH	YES		NO	YES		MX	N3	T1a	NO	NO	NO	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-95-A4VK-01	TCGA-95-A4VK-01					0	651	FEMALE	1	496			74		YES		NO			NO		M0	N2	T2b	NO		NO	YES	Lung Adenocarcinoma Mixed Subtype	No
+TCGA-NJ-A7XG-01	TCGA-NJ-A7XG-01					0	617	MALE	0	617			49	Other	YES				NO	YES		M0	N1	T4					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-67-3770-01	TCGA-67-3770-01					0	610	FEMALE	0	610			70		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-95-A4VP-01	TCGA-95-A4VP-01					0	605	FEMALE	1	216			66		NO		NO			NO		M0	N2	T2b	NO		NO	YES	Lung Acinar Adenocarcinoma	No
+TCGA-NJ-A55R-01	TCGA-NJ-A55R-01					0	603	MALE	0	603			67		NO		NO			NO		MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-55-8205-01	TCGA-55-8205-01					0	599	FEMALE	1	495			76		YES		NO		NO	YES		M0	N0	T2b	NO		YES	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7660-01	TCGA-44-7660-01					0	592	MALE	1	253			72							NO		MX	N0	T2		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-44-7660-11	TCGA-44-7660-11					0	592	MALE	1	253			72							NO		MX	N0	T2		NO			Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-A59K-01	TCGA-69-A59K-01					0	591	FEMALE	0	591			60		YES		NO					M0	N0	T3					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-93-A4JP-01	TCGA-93-A4JP-01					0	578	MALE	1	497			64	L861Q	YES		NO			NO		M1b	NX	TX	NO		YES	YES	Lung Papillary Adenocarcinoma	No
+TCGA-97-8171-01	TCGA-97-8171-01					0	568	MALE	1	441			81	Exon 19 Deletion	YES		NO		NO	YES		M1a	N2	T2a	YES		YES	NO	Lung Papillary Adenocarcinoma	No
+TCGA-95-A4VN-01	TCGA-95-A4VN-01					0	553	FEMALE	0	553			62		YES		NO			NO		M0	N1	T2a					Lung Solid Pattern Predominant Adenocarcinoma	No
+TCGA-55-8094-01	TCGA-55-8094-01					0	541	MALE	0	541			51		YES	FISH	YES			NO		M1b	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-8177-01	TCGA-97-8177-01					0	499	FEMALE	0	499			59	L858R	YES		NO		NO	YES		M0	N0	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-L9-A8F4-01	TCGA-L9-A8F4-01					0	476	FEMALE	0	476			64		NO		NO			NO		MX	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-8176-01	TCGA-97-8176-01					0	468	MALE	1	39			63		YES		NO	G12S	YES	YES		M0	N1	T3					Lung Acinar Adenocarcinoma	No
+TCGA-67-4679-01	TCGA-67-4679-01					0	448	MALE	0	448			69		NO		NO			NO		M0	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8359-01	TCGA-86-8359-01					0	444	MALE	0	444			52									M0	N2	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-7979-01	TCGA-69-7979-01					0	408	FEMALE	0	408			71		NO		NO			NO		MX	N0	T2a					Lung Acinar Adenocarcinoma	No
+TCGA-95-7944-01	TCGA-95-7944-01					0	377	MALE	0	377			71									M0	N0	T1a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-35-5375-01	TCGA-35-5375-01					0	264	MALE	0	264			61									M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-35-4122-01	TCGA-35-4122-01					0	225	MALE	0	225			69		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-7974-01	TCGA-69-7974-01					0	184	FEMALE	0	184			54	Other	YES							MX	N2	T2a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-35-4123-01	TCGA-35-4123-01					0	182	MALE	0	182			38		NO		NO			NO		M0	N0	T1					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-7978-01	TCGA-69-7978-01					0	134	MALE	0	134			59	Other	YES							MX	N1	T2b		NO			Lung Adenocarcinoma Mixed Subtype	No
+TCGA-73-4670-01	TCGA-73-4670-01					0	131	FEMALE	0	131			69		NO		NO			NO		M1	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-73-4670-11	TCGA-73-4670-11					0	131	FEMALE	0	131			69		NO		NO			NO		M1	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-69-8255-01	TCGA-69-8255-01					0	129	MALE	0	129			71	Other	YES		NO			NO		M0	N0	T1a					Lung Solid Pattern Predominant Adenocarcinoma	No
+TCGA-55-A490-01	TCGA-55-A490-01					0	99	MALE	0	99			78		YES	FISH	YES	G12C	YES	YES		MX	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-95-7562-01	TCGA-95-7562-01					0	87	MALE	0	87			71									M0	N1	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-6830-01	TCGA-91-6830-01					0	60	FEMALE	1	18			65							NO		MX	N1	T1	YES		NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-NJ-A4YP-01	TCGA-NJ-A4YP-01					0	50	MALE	0	50			52		NO		NO			NO		M0	N0	T2a					Lung Papillary Adenocarcinoma	No
+TCGA-55-8616-01	TCGA-55-8616-01					0	48	FEMALE	0	48			58									M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-A4BC-01	TCGA-91-A4BC-01					0	44	MALE	0	44			59		NO					NO		MX	N0	T2b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-91-8499-01	TCGA-91-8499-01					0	36	FEMALE	0	36			76		YES					NO		MX	N0	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-93-A4JO-01	TCGA-93-A4JO-01					0	33	MALE	0	33			70		NO		NO			NO		MX	N0	T1a					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-55-A493-01	TCGA-55-A493-01					0	28	FEMALE	0	28			54		NO		NO			NO		M0	N0	T2a					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-86-8074-01	TCGA-86-8074-01					0	24	FEMALE	0	24			62		NO		NO			NO		M0	N1	T1b					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-NJ-A55A-01	TCGA-NJ-A55A-01					0	15	FEMALE	0	15			76		NO		NO			NO		M0	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-NJ-A55O-01	TCGA-NJ-A55O-01					0	13	FEMALE	0	13			56		NO		NO			NO		M0	N1	T1b					Mucinous (Colloid) Carcinoma	No
+TCGA-55-8506-01	TCGA-55-8506-01					0	11	FEMALE	0	11			62									MX	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4244-01	TCGA-05-4244-01					0	0	MALE	0	0			70									M1	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-78-8648-01	TCGA-78-8648-01						1209	FEMALE	1	720			58		NO		NO			NO		M0	N0	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4397-01	TCGA-05-4397-01						731	MALE	0	731			65									M0	N1	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-05-4434-01	TCGA-05-4434-01						457	FEMALE	0	457			67									M1	N1	T4					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-78-7146-01	TCGA-78-7146-01						173	FEMALE	0	173			71		NO		NO			NO		M0	N2	T2					Lung Adenocarcinoma Mixed Subtype	No
+TCGA-MP-A4T7-01	TCGA-MP-A4T7-01						167	FEMALE	0	167			75		NO		NO			NO		M1	N0	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-97-8174-01	TCGA-97-8174-01						164	MALE	0	164			67		YES	FISH	YES		NO	YES		M0	N0	T2b					Lung Papillary Adenocarcinoma	No
+TCGA-MP-A4T8-01	TCGA-MP-A4T8-01						161	MALE	0	161			68		NO		NO			NO		M0	N2	T2					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-05-4250-01	TCGA-05-4250-01						121	FEMALE	0	121			79									M0	N1	T3					Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-NJ-A4YI-01	TCGA-NJ-A4YI-01						4	FEMALE	0	4			87									M0	N2	T2					Lung Papillary Adenocarcinoma	No
+TCGA-44-2664-01	TCGA-44-2664-01							FEMALE					66							NO		M0	N0	T1		NO	NO	YES	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	No
+TCGA-17-Z000-01	TCGA-17-Z000-01																													
+TCGA-17-Z001-01	TCGA-17-Z001-01																													
+TCGA-17-Z002-01	TCGA-17-Z002-01																													
+TCGA-17-Z003-01	TCGA-17-Z003-01																													
+TCGA-17-Z004-01	TCGA-17-Z004-01																													
+TCGA-17-Z005-01	TCGA-17-Z005-01																													
+TCGA-17-Z006-01	TCGA-17-Z006-01																													
+TCGA-17-Z007-01	TCGA-17-Z007-01																													
+TCGA-17-Z008-01	TCGA-17-Z008-01																													
+TCGA-17-Z009-01	TCGA-17-Z009-01																													
+TCGA-17-Z010-01	TCGA-17-Z010-01																													
+TCGA-17-Z011-01	TCGA-17-Z011-01																													
+TCGA-17-Z012-01	TCGA-17-Z012-01																													
+TCGA-17-Z013-01	TCGA-17-Z013-01																													
+TCGA-17-Z014-01	TCGA-17-Z014-01																													
+TCGA-17-Z015-01	TCGA-17-Z015-01																													
+TCGA-17-Z016-01	TCGA-17-Z016-01																													
+TCGA-17-Z017-01	TCGA-17-Z017-01																													
+TCGA-17-Z018-01	TCGA-17-Z018-01																													
+TCGA-17-Z019-01	TCGA-17-Z019-01																													
+TCGA-17-Z020-01	TCGA-17-Z020-01																													
+TCGA-17-Z021-01	TCGA-17-Z021-01																													
+TCGA-17-Z022-01	TCGA-17-Z022-01																													
+TCGA-17-Z023-01	TCGA-17-Z023-01																													
+TCGA-17-Z024-01	TCGA-17-Z024-01																													
+TCGA-17-Z025-01	TCGA-17-Z025-01																													
+TCGA-17-Z026-01	TCGA-17-Z026-01																													
+TCGA-17-Z027-01	TCGA-17-Z027-01																													
+TCGA-17-Z028-01	TCGA-17-Z028-01																													
+TCGA-17-Z029-01	TCGA-17-Z029-01																													
+TCGA-17-Z030-01	TCGA-17-Z030-01																													
+TCGA-17-Z031-01	TCGA-17-Z031-01																													
+TCGA-17-Z032-01	TCGA-17-Z032-01																													
+TCGA-17-Z033-01	TCGA-17-Z033-01																													
+TCGA-17-Z034-01	TCGA-17-Z034-01																													
+TCGA-17-Z035-01	TCGA-17-Z035-01																													
+TCGA-17-Z036-01	TCGA-17-Z036-01																													
+TCGA-17-Z037-01	TCGA-17-Z037-01																													
+TCGA-17-Z038-01	TCGA-17-Z038-01																													
+TCGA-17-Z039-01	TCGA-17-Z039-01																													
+TCGA-17-Z040-01	TCGA-17-Z040-01																													
+TCGA-17-Z041-01	TCGA-17-Z041-01																													
+TCGA-17-Z042-01	TCGA-17-Z042-01																													
+TCGA-17-Z043-01	TCGA-17-Z043-01																													
+TCGA-17-Z044-01	TCGA-17-Z044-01																													
+TCGA-17-Z045-01	TCGA-17-Z045-01																													
+TCGA-17-Z046-01	TCGA-17-Z046-01																													
+TCGA-17-Z047-01	TCGA-17-Z047-01																													
+TCGA-17-Z048-01	TCGA-17-Z048-01																													
+TCGA-17-Z049-01	TCGA-17-Z049-01																													
+TCGA-17-Z050-01	TCGA-17-Z050-01																													
+TCGA-17-Z051-01	TCGA-17-Z051-01																													
+TCGA-17-Z052-01	TCGA-17-Z052-01																													
+TCGA-17-Z053-01	TCGA-17-Z053-01																													
+TCGA-17-Z054-01	TCGA-17-Z054-01																													
+TCGA-17-Z055-01	TCGA-17-Z055-01																													
+TCGA-17-Z056-01	TCGA-17-Z056-01																													
+TCGA-17-Z057-01	TCGA-17-Z057-01																													
+TCGA-17-Z058-01	TCGA-17-Z058-01																													
+TCGA-17-Z059-01	TCGA-17-Z059-01																													
+TCGA-17-Z060-01	TCGA-17-Z060-01																													
+TCGA-17-Z061-01	TCGA-17-Z061-01																													
+TCGA-17-Z062-01	TCGA-17-Z062-01																													
+TCGA-35-3621-01	TCGA-35-3621-01																													
