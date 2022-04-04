@@ -1,0 +1,567 @@
+sample	samples	IL22RA1	IL22RA2	IL10RB	PVR	OS	OS.time	pathologic_stage	histological_type	sample_type
+TCGA-78-7540-01	TCGA-78-7540-01	12.11	2.109	10.68	11.13	1	1197	Stage IB	Lung Bronchioloalveolar Carcinoma Mucinous	Primary Tumor
+TCGA-55-7284-01	TCGA-55-7284-01	10.99	2.245	10.54	10.41	1	243	Stage IIB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-49-6742-01	TCGA-49-6742-01	10.34	1.695	10.5	10.12	1	488	Stage IIA	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-44-6146-01	TCGA-44-6146-01	10.24	0	11.13	9.956	0	728	Stage IIB	Lung Mucinous Adenocarcinoma	Primary Tumor
+TCGA-55-7728-01	TCGA-55-7728-01	10.22	4.491	10.69	9.954	0	704	Stage IB	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-05-4403-01	TCGA-05-4403-01	10.02	2.774	11.42	9.597	0	578	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-05-4433-01	TCGA-05-4433-01	9.717	3.554	10.57	10.71	0	730	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-50-6592-01	TCGA-50-6592-01	9.693	2.401	10.54	10.9	1	777	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-A44F-01	TCGA-38-A44F-01	9.528	6.681	10.2	10.23	0	133	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-97-7941-01	TCGA-97-7941-01	9.446	2.7	10.1	10.78	0	484	Stage IA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-55-7570-01	TCGA-55-7570-01	9.39	1.206	9.882	9.957	0	824	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-8453-01	TCGA-69-8453-01	9.377	4.094	10.36	10.48	0	813	Stage IIB	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-MP-A4TA-01	TCGA-MP-A4TA-01	9.027	2.819	9.948	10.35	1	950	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-5429-01	TCGA-05-5429-01	8.979	2.496	11.27	9.512	1	275	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7150-01	TCGA-78-7150-01	8.95	1.444	10.74	11.83	1	666	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8094-01	TCGA-55-8094-01	8.934	0	10.39	11.2	0	541	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8505-01	TCGA-55-8505-01	8.877	0.6684	10.74	10.92	0	440	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-7552-01	TCGA-97-7552-01	8.802	4.83	10.68	9.077	0	1932	Stage IB	Lung Bronchioloalveolar Carcinoma Mucinous	Primary Tumor
+TCGA-55-7907-01	TCGA-55-7907-01	8.72	3.481	11.11	10.93	1	343	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-8459-01	TCGA-50-8459-01	8.654	4.01	10.18	9.887	0	1119	Stage IIB	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-55-6984-01	TCGA-55-6984-01	8.639	3.581	10.34	10.82	1	760	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7154-01	TCGA-78-7154-01	8.532	3.55	9.641	11.38	1	593	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5072-01	TCGA-50-5072-01	8.415	2.49	10.61	10.6	1	250	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8513-01	TCGA-55-8513-01	8.361	5.36	10.55	9.699	0	791	Stage IIB	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-78-7220-01	TCGA-78-7220-01	8.275	2.62	9.579	11.47	1	807	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-93-A4JN-01	TCGA-93-A4JN-01	8.189	4.626	9.887	9.864	0	718	Stage IV	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-49-AARN-01	TCGA-49-AARN-01	8.183	5.714	10.79	10.2	1	1135	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-7761-01	TCGA-69-7761-01	8.154	3.961	10.12	10.55	0	186	Stage IB	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-75-7027-01	TCGA-75-7027-01	8.125	3.14	9.06	10.17	0	3059	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-95-A4VK-01	TCGA-95-A4VK-01	8.068	3.723	9.575	10.61	0	651	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-53-7624-01	TCGA-53-7624-01	8.03	2.746	10.48	11.7	1	1043	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-71-8520-01	TCGA-71-8520-01	8.016	1.516	10.68	10.2	1	210	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-8394-01	TCGA-62-8394-01	7.99	1.168	11.33	11.11	1	139	Stage IIIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-1596-01	TCGA-55-1596-01	7.971	2.187	11.75	9.418	0	2065	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-8398-01	TCGA-62-8398-01	7.963	6.404	9.95	10.94	1	444	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-NJ-A55R-01	TCGA-NJ-A55R-01	7.951	1.288	9.229	10.65	0	603	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-6673-01	TCGA-50-6673-01	7.903	2.456	10.37	11.04	1	22	Stage I	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-NJ-A55O-01	TCGA-NJ-A55O-01	7.84	2.773	9.719	11.06	0	13	Stage IIA	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-49-AAR9-01	TCGA-49-AAR9-01	7.799	0.5449	9.464	11.4	1	260	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8619-01	TCGA-55-8619-01	7.777	3.522	10.16	10.14	0	416	Stage IIB	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-69-8255-01	TCGA-69-8255-01	7.736	1.255	10.01	10.39	0	129	Stage IA	Lung Solid Pattern Predominant Adenocarcinoma	Primary Tumor
+TCGA-MP-A4TF-01	TCGA-MP-A4TF-01	7.719	0.8605	9.075	10.42	1	336	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-A4DF-01	TCGA-55-A4DF-01	7.692	5.997	10.24	10.54	1	614	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4397-01	TCGA-05-4397-01	7.674	5.586	10.87	9.384	1	731	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-75-6214-01	TCGA-75-6214-01	7.674	1.497	11.54	9.639	1	1115	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-6594-01	TCGA-50-6594-01	7.671	3.344	10.52	9.951	1	370	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-93-8067-01	TCGA-93-8067-01	7.63	1.713	9.416	10.41	0	186	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	FFPE Scrolls
+TCGA-05-4418-01	TCGA-05-4418-01	7.603	4.715	11.23	11.92	1	274	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-49-AARO-01	TCGA-49-AARO-01	7.588	3.712	10.67	10.7	0	3759	Stage IA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-55-8302-01	TCGA-55-8302-01	7.577	4.31	9.302	10.47	0	478	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-5644-01	TCGA-44-5644-01	7.459	0.7355	10.59	10.57	0	863	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4389-01	TCGA-05-4389-01	7.405	6.691	10.41	10.46	0	1369	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-6978-01	TCGA-55-6978-01	7.403	3.517	9.974	10.49	1	176	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-7980-01	TCGA-69-7980-01	7.397	1.652	9.736	10.28	0	411	Stage I	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4425-01	TCGA-05-4425-01	7.371	7.038	10.43	10.38	0	669	Stage IV	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-44-6148-01	TCGA-44-6148-01	7.366	2.075	9.783	9.243	0	704	Stage IA	Lung Mucinous Adenocarcinoma	Primary Tumor
+TCGA-55-7576-01	TCGA-55-7576-01	7.325	4.139	10.52	10.63	0	670	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7143-01	TCGA-78-7143-01	7.272	4.801	10.64	9.746	1	4961	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-44-7670-01	TCGA-44-7670-01	7.27	2.845	10.01	11.95	0	882	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8358-01	TCGA-86-8358-01	7.224	2.496	10.47	11.09	0	653	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-A471-01	TCGA-62-A471-01	7.213	2.195	9.128	10.73	0	1246	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5946-01	TCGA-50-5946-01	7.2	1.193	10.17	10.38	0	1617	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-7816-01	TCGA-55-7816-01	7.198	2.151	10.39	9.754	1	468	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-MP-A4T9-01	TCGA-MP-A4T9-01	7.166	3.649	10.43	10.76	1	1265	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6148-11	TCGA-44-6148-11	7.152	0.9572	9.942	10.14	0	704	Stage IA	Lung Mucinous Adenocarcinoma	Solid Tissue Normal
+TCGA-05-4415-01	TCGA-05-4415-01	7.144	0.9175	10.4	11.69	1	91	Stage IIIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-38-4630-01	TCGA-38-4630-01	7.101	2.976	9.813	10.14	1	1073	Stage IB	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-38-4628-01	TCGA-38-4628-01	7.07	3.154	12.05	9.515	1	1492	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-95-7947-01	TCGA-95-7947-01	7.049	3.853	10.58	9.408	0	477	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-64-1681-01	TCGA-64-1681-01	7.047	6.525	10.13	10.05	1	1167	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6830-01	TCGA-91-6830-01	7.036	2.023	10.83	9.934	0	60	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6835-11	TCGA-91-6835-11	7.036	0.7016	9.999	9.879	0	79	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-55-A491-01	TCGA-55-A491-01	7.024	1.64	11.11	9.968	0	626	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-NJ-A55A-01	TCGA-NJ-A55A-01	6.967	5.483	10.05	9.201	0	15	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6835-01	TCGA-91-6835-01	6.947	5.726	9.976	11.11	0	79	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-L9-A443-01	TCGA-L9-A443-01	6.928	4.917	10.15	10.95	1	193	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5066-02	TCGA-50-5066-02	6.923	2.096	10.19	10.51	0	1442	Stage IB	Lung Adenocarcinoma Mixed Subtype	Recurrent Tumor
+TCGA-49-AAR2-01	TCGA-49-AAR2-01	6.912	3.869	9.263	9.732	0	2224	Stage IB	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-49-6745-01	TCGA-49-6745-01	6.906	3.835	10.22	10.37	0	522	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6836-01	TCGA-91-6836-01	6.898	3.23	9.515	11.18	0	417	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-L9-A50W-01	TCGA-L9-A50W-01	6.869	5.21	10.3	9.435	1	442	Stage IIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-78-7147-01	TCGA-78-7147-01	6.863	1.743	10.93	9.574	1	586	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6712-01	TCGA-55-6712-01	6.854	4.492	9.929	9.479	1	171	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8512-01	TCGA-55-8512-01	6.823	0	9.487	9.738	1	607	Stage IV	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-49-4501-01	TCGA-49-4501-01	6.817	4.735	11.19	9.953	1	1421	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-5643-01	TCGA-44-5643-01	6.785	5.508	9.184	10.03	0	1013	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6968-01	TCGA-55-6968-01	6.778	1.718	10.09	10.51	1	1293	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-4625-01	TCGA-38-4625-01	6.774	6.158	9.662	10.66	0	2973	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-6743-01	TCGA-49-6743-01	6.768	3.428	11.33	11.18	0	1621	Stage IIIA	Lung Clear Cell Adenocarcinoma	Primary Tumor
+TCGA-05-5420-01	TCGA-05-5420-01	6.76	6.542	11.06	9.835	0	457	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-6767-01	TCGA-49-6767-01	6.756	1.472	10.17	10.58	0	677	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4434-01	TCGA-05-4434-01	6.736	5.495	10.66	9.203	1	457	Stage IV	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-62-8402-01	TCGA-62-8402-01	6.72	1.571	10.22	9.475	1	1498	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-L9-A7SV-01	TCGA-L9-A7SV-01	6.705	1.092	10.06	10.66	0	565	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-7995-01	TCGA-55-7995-01	6.688	2.136	10.46	9.801	0	889	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-4629-01	TCGA-38-4629-01	6.676	4.41	10.53	10.13	1	864	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7148-01	TCGA-78-7148-01	6.673	1.871	9.769	10.5	1	626	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-49-AAQV-01	TCGA-49-AAQV-01	6.645	3.853	10.47	9.835	1	677	Stage II	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-49-AARR-01	TCGA-49-AARR-01	6.636	2.609	10.12	9.764	0	4992	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-A47A-01	TCGA-44-A47A-01	6.618	8.607	10.25	10.25	0	466	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6775-01	TCGA-44-6775-01	6.614	5.782	10.86	10.13	0	705	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8204-01	TCGA-55-8204-01	6.608	5.098	9.525	10.45	0	515	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-7979-01	TCGA-69-7979-01	6.604	1.852	9.079	10.9	0	408	Stage IB	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-L4-A4E5-01	TCGA-L4-A4E5-01	6.6	4.455	11.07	9.309	0	578	Stage I	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5939-01	TCGA-50-5939-01	6.597	5.021	10.59	10.2	1	460	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-62-A46O-01	TCGA-62-A46O-01	6.573	0	10.07	12.07	1	1454	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-7711-01	TCGA-86-7711-01	6.568	3.802	10.04	11.49	1	1046	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-4507-01	TCGA-49-4507-01	6.561	4.02	10.38	9.829	1	268	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-4490-01	TCGA-49-4490-01	6.549	2.246	11.46	9.767	1	385	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7166-01	TCGA-78-7166-01	6.537	2.856	9.93	10.51	1	258	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-L9-A5IP-01	TCGA-L9-A5IP-01	6.533	1.211	9.967	11.36	1	58	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2657-01	TCGA-44-2657-01	6.528	3.979	10.53	9.311	0	1351	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-75-5147-01	TCGA-75-5147-01	6.497	3.711	11.23	9.535	0	1333	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8075-01	TCGA-86-8075-01	6.494	2.402	10.4	10.86	1	694	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5936-01	TCGA-50-5936-01	6.483	4.213	10.05	10.62	1	257	Stage IIIA	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-53-7626-01	TCGA-53-7626-01	6.479	5.449	10.67	9.616	1	929	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-95-7039-01	TCGA-95-7039-01	6.473	1.947	10.78	10.15	0	1272	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-AARQ-01	TCGA-49-AARQ-01	6.47	3.054	9.776	10.64	0	6732	Stage I	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6840-01	TCGA-91-6840-01	6.461	3.548	9.761	10.97	0	372	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6829-01	TCGA-91-6829-01	6.446	2.497	10.17	9.986	1	1258	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-MP-A4TK-01	TCGA-MP-A4TK-01	6.438	4.87	10.27	11.08	1	582	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5946-02	TCGA-50-5946-02	6.429	2.697	10.33	10.63	0	1617	Stage IA	Lung Adenocarcinoma Mixed Subtype	Recurrent Tumor
+TCGA-38-6178-01	TCGA-38-6178-01	6.413	2.293	10.3	10.04	0	448	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6145-01	TCGA-44-6145-01	6.41	5.437	9.832	10.42	0	595	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-1592-01	TCGA-55-1592-01	6.408	0.8575	9.987	9.587	1	701	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8510-01	TCGA-55-8510-01	6.396	6.628	9.845	10.43	0	539	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6981-01	TCGA-55-6981-01	6.383	5.4	9.907	10.76	1	1379	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-95-8494-01	TCGA-95-8494-01	6.368	6.311	10.2	9.652	0	84	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-93-A4JP-01	TCGA-93-A4JP-01	6.352	2.625	9.95	10.18	0	578	Stage IV	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-05-4395-01	TCGA-05-4395-01	6.349	3.34	10.61	10.69	1	0	Stage IIIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-05-4402-01	TCGA-05-4402-01	6.342	2.91	10.5	9.865	1	244	Stage IV	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-05-4250-01	TCGA-05-4250-01	6.338	2.409	10.01	12.11	1	121	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-8499-01	TCGA-91-8499-01	6.335	1.471	10.47	10.14	0	36	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-A494-01	TCGA-55-A494-01	6.329	0.916	9.961	10.44	0	481	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-A46R-01	TCGA-62-A46R-01	6.323	3.701	11.08	9.334	1	1725	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-91-A4BC-01	TCGA-91-A4BC-01	6.322	1.852	10.07	9.781	0	44	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6828-11	TCGA-91-6828-11	6.312	0.7164	10.16	10.95	0	323	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-78-7160-01	TCGA-78-7160-01	6.308	4.846	9.769	9.526	1	697	Stage IV	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-8089-01	TCGA-55-8089-01	6.307	5.534	10.16	10.03	1	702	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6147-01	TCGA-44-6147-01	6.306	4.549	10.26	10.08	0	845	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8614-01	TCGA-55-8614-01	6.303	2.592	9.84	11.52	0	536	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6986-11	TCGA-55-6986-11	6.288	0.6936	10.15	10	0	3261	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Solid Tissue Normal
+TCGA-86-8672-01	TCGA-86-8672-01	6.284	4.082	10.16	10.19	1	19	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-A57B-01	TCGA-55-A57B-01	6.283	6.353	10.52	10.06	0	546	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-MP-A4T6-01	TCGA-MP-A4T6-01	6.283	4.83	10.45	9.712	1	1790	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6985-01	TCGA-55-6985-01	6.283	3.924	10.3	10.19	0	1233	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4432-01	TCGA-05-4432-01	6.259	4.843	9.452	10.58	0	761	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-44-A47G-01	TCGA-44-A47G-01	6.233	5.784	10.53	10.12	0	351	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-A4D0-01	TCGA-86-A4D0-01	6.229	3.229	10.35	9.877	1	116	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6847-01	TCGA-91-6847-01	6.223	3.737	9.276	10.04	0	842	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6848-01	TCGA-91-6848-01	6.223	3.352	10.08	11.95	0	224	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6978-11	TCGA-55-6978-11	6.216	0	10.22	10.38	1	176	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-55-8096-01	TCGA-55-8096-01	6.197	0.9527	10.3	10.27	1	719	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-A493-01	TCGA-55-A493-01	6.194	0.5703	10.29	12.17	0	28	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-7724-01	TCGA-55-7724-01	6.193	4.957	10.18	9.889	0	705	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-73-A9RS-01	TCGA-73-A9RS-01	6.193	2.177	10.14	10.67	1	340	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6975-01	TCGA-55-6975-01	6.192	2.78	9.564	10.11	1	118	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-73-7499-01	TCGA-73-7499-01	6.189	4.924	11.86	8.713	1	1531	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-78-8640-01	TCGA-78-8640-01	6.185	2.503	10.29	9.973	0	7062	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-4631-01	TCGA-38-4631-01	6.178	1.362	11.74	10.65	1	354	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6980-01	TCGA-55-6980-01	6.165	6.511	10.03	9.954	0	2109	Stage IA	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-91-6849-11	TCGA-91-6849-11	6.163	1.352	10.09	10.95	0	35	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-49-4505-01	TCGA-49-4505-01	6.153	4.444	11.32	9.731	1	428	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8671-01	TCGA-86-8671-01	6.149	7.867	10.25	9.527	0	839	Stage IIB	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-35-5375-01	TCGA-35-5375-01	6.148	4.729	10.43	9.264	0	264	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-7978-01	TCGA-69-7978-01	6.128	5.627	10.17	11.41	0	134	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-49-AAR3-01	TCGA-49-AAR3-01	6.126	2.421	10.16	10.15	0	1893	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-5715-01	TCGA-05-5715-01	6.107	2.507	10.28	10.42	0	62	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-7954-01	TCGA-86-7954-01	6.097	3.131	9.994	9.772	0	605	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-91-6847-11	TCGA-91-6847-11	6.087	0	10.29	10.78	0	842	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-55-8208-01	TCGA-55-8208-01	6.077	7.209	11.03	9.973	0	674	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6779-01	TCGA-44-6779-01	6.069	3.288	10.49	9.438	1	500	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-A59K-01	TCGA-69-A59K-01	6.062	0.6915	10.23	10.53	0	591	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-35-4123-01	TCGA-35-4123-01	6.054	5.531	11.41	10.53	0	182	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-J2-A4AD-01	TCGA-J2-A4AD-01	6.052	2.339	10.35	9.319	1	550	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-95-8039-01	TCGA-95-8039-01	6.039	5.173	10.28	9.729	0	830	Stage IA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-69-7974-01	TCGA-69-7974-01	6.024	4.431	10.57	10.9	0	184	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-8621-01	TCGA-55-8621-01	6.017	3.337	10.16	10.1	0	515	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5931-01	TCGA-50-5931-01	6.017	0.706	9.831	10.44	1	434	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-4625-11	TCGA-38-4625-11	5.999	0	10.83	10.13	0	2973	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-62-8399-01	TCGA-62-8399-01	5.995	1.532	9.614	11.58	0	2696	Stage IIIA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-97-A4M5-01	TCGA-97-A4M5-01	5.986	1.629	9.919	10.33	0	634	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-91-6831-01	TCGA-91-6831-01	5.971	2.031	9.668	10.65	0	310	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-7546-01	TCGA-97-7546-01	5.968	3.142	10.33	9.672	0	1285	Stage IA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-05-4382-01	TCGA-05-4382-01	5.966	2.198	11.36	10.92	0	607	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-44-3919-01	TCGA-44-3919-01	5.957	6.991	10.9	9.614	1	1026	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-6562-01	TCGA-86-6562-01	5.957	2.249	10.73	9.551	1	376	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-6595-01	TCGA-50-6595-01	5.926	1.837	10.21	11.72	1	189	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-75-7025-01	TCGA-75-7025-01	5.916	5.334	10.81	9.722	0	3305	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-5425-01	TCGA-05-5425-01	5.903	3.408	10.41	10.93	0	882	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-6980-11	TCGA-55-6980-11	5.903	0	10.03	10.31	0	2109	Stage IA	Lung Bronchioloalveolar Carcinoma Nonmucinous	Solid Tissue Normal
+TCGA-55-A48X-01	TCGA-55-A48X-01	5.898	6.807	10.19	9.076	0	689	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4405-01	TCGA-05-4405-01	5.89	3.451	10.6	10.3	0	610	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-8616-01	TCGA-55-8616-01	5.877	1.858	10.15	10.13	0	48	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-A4M6-01	TCGA-97-A4M6-01	5.849	4.368	10.68	9.56	0	568	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-8506-01	TCGA-55-8506-01	5.841	2.461	9.592	10.39	0	11	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-J2-A4AE-01	TCGA-J2-A4AE-01	5.837	1.126	10.74	9.793	0	1079	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8205-01	TCGA-55-8205-01	5.833	4.628	9.972	10.75	0	599	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-99-7458-01	TCGA-99-7458-01	5.823	5.383	10.66	9.413	0	747	Stage IIIA	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-44-7660-01	TCGA-44-7660-01	5.821	3.577	9.979	10.89	0	592	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-7973-01	TCGA-69-7973-01	5.813	4.401	9.879	11.35	0	230	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-97-A4LX-01	TCGA-97-A4LX-01	5.796	5.359	10.75	9.151	0	614	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-A456-01	TCGA-86-A456-01	5.777	1.751	10.26	10.28	0	896	Stage IA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-75-5125-01	TCGA-75-5125-01	5.771	3.625	10.05	10.91	1	2027	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-L9-A743-01	TCGA-L9-A743-01	5.752	5.548	9.99	11.35	0	664	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8280-01	TCGA-86-8280-01	5.747	5.251	9.834	9.589	0	701	Stage IIA	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-64-5815-01	TCGA-64-5815-01	5.745	6.066	10.35	10.42	0	866	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-44-A4SU-01	TCGA-44-A4SU-01	5.744	5.496	9.836	10.13	1	409	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-93-A4JQ-01	TCGA-93-A4JQ-01	5.725	6.162	10.46	11.23	0	526	Stage IA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-86-6851-01	TCGA-86-6851-01	5.723	3.957	10.58	9.307	0	179	Stage IIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-78-7633-01	TCGA-78-7633-01	5.723	0.6561	9.912	10.51	1	1528	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-MP-A4T4-01	TCGA-MP-A4T4-01	5.72	4.597	10.24	10.99	1	2617	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8207-01	TCGA-55-8207-01	5.716	2.605	9.778	10.11	0	977	Stage IB	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-55-7994-01	TCGA-55-7994-01	5.708	1.685	9.913	10.07	0	603	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-7662-01	TCGA-44-7662-01	5.698	0.9168	9.805	11.2	0	218	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4426-01	TCGA-05-4426-01	5.692	4.161	10.33	10.5	0	791	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-67-3772-01	TCGA-67-3772-01	5.688	3.911	10.94	9.063	0	573	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4398-01	TCGA-05-4398-01	5.629	5.911	10.31	10.96	0	1431	Stage IIIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-6984-11	TCGA-55-6984-11	5.618	0	10.55	10.51	1	760	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-55-6969-01	TCGA-55-6969-01	5.613	4.076	10.16	10.67	0	1239	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-A472-01	TCGA-62-A472-01	5.594	6.016	10.32	10.95	0	910	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-A46U-01	TCGA-62-A46U-01	5.568	9.379	10.87	10.12	0	2067	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-50-5068-01	TCGA-50-5068-01	5.56	6.966	11.27	8.214	1	1499	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6982-01	TCGA-55-6982-01	5.557	3.353	10.77	10.63	1	995	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-A4M7-01	TCGA-97-A4M7-01	5.554	8.044	10.02	9.823	0	629	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-97-8552-01	TCGA-97-8552-01	5.546	4.358	9.91	10.26	0	626	Stage I	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-38-4626-11	TCGA-38-4626-11	5.531	1.067	11.13	10.24	0	3674	[Discrepancy]	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-50-5930-01	TCGA-50-5930-01	5.528	4.292	10.28	10.62	1	282	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-A4P7-01	TCGA-86-A4P7-01	5.526	2.841	10.21	10.19	0	415	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-3398-11	TCGA-44-3398-11	5.526	1.046	10.21	10.3	0	1163	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-97-8179-01	TCGA-97-8179-01	5.524	2.287	9.122	9.514	0	435	Stage IA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-MN-A4N5-01	TCGA-MN-A4N5-01	5.52	3.588	11.12	9.782	0	84	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-7667-01	TCGA-44-7667-01	5.511	0.4146	9.909	10.76	0	1097	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8055-01	TCGA-86-8055-01	5.51	3.124	10.46	10.8	1	124	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4390-01	TCGA-05-4390-01	5.494	1.187	9.076	11.08	0	1126	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-75-5146-01	TCGA-75-5146-01	5.49	3.016	11	9.106	0	2368	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-4514-01	TCGA-49-4514-01	5.479	2.979	10.02	10.29	0	1700	Stage IA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-55-7911-01	TCGA-55-7911-01	5.471	4.163	10.22	10.4	0	537	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-J2-A4AG-01	TCGA-J2-A4AG-01	5.47	4.52	9.922	9.603	0	988	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-95-7944-01	TCGA-95-7944-01	5.466	1.501	9.512	10.73	0	377	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-7553-01	TCGA-97-7553-01	5.455	7.173	10.47	9.9	0	1870	Stage IA	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-50-5935-01	TCGA-50-5935-01	5.448	5.316	9.603	9.335	1	653	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-7573-01	TCGA-55-7573-01	5.441	6.704	9.623	9.495	0	487	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-7764-01	TCGA-69-7764-01	5.441	1.869	9.557	11.3	0	414	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-MP-A4TC-01	TCGA-MP-A4TC-01	5.437	4.727	10.33	11.27	1	74	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8074-01	TCGA-86-8074-01	5.432	6.649	10.27	9.945	0	24	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5044-01	TCGA-50-5044-01	5.425	4.84	10.06	11.62	1	624	Stage IIIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-8176-01	TCGA-97-8176-01	5.414	2.796	9.797	10.55	1	468	Stage IIIA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-MP-A4T8-01	TCGA-MP-A4T8-01	5.412	1.422	8.832	10.29	1	161	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7158-01	TCGA-78-7158-01	5.409	3.34	9.807	10.24	1	179	Stage IIIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-44-7661-01	TCGA-44-7661-01	5.4	5.01	10.16	10.91	1	557	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7146-01	TCGA-78-7146-01	5.385	0.5826	10.69	11.65	1	173	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-62-8395-01	TCGA-62-8395-01	5.37	4.247	9.724	9.792	0	1216	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-62-A46V-01	TCGA-62-A46V-01	5.365	6.275	10.02	10.09	0	2199	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-49-4512-01	TCGA-49-4512-01	5.357	3.354	10.23	10.11	1	905	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6774-01	TCGA-44-6774-01	5.356	4.359	10.44	10.36	0	658	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6983-11	TCGA-55-6983-11	5.354	5.259	10.29	10.53	0	2823	Stage IIB	Mucinous (Colloid) Carcinoma	Solid Tissue Normal
+TCGA-44-2666-01	TCGA-44-2666-01	5.344	2.683	10.39	11.03	1	97	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2662-11	TCGA-44-2662-11	5.336	0	10.27	11.01	0	1280	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-49-6744-01	TCGA-49-6744-01	5.329	6.469	10.57	10.18	0	1683	Stage IIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-95-7043-01	TCGA-95-7043-01	5.329	1.745	9.208	10.8	1	503	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-49-6745-11	TCGA-49-6745-11	5.326	1.983	10.93	9.759	0	522	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-55-7726-01	TCGA-55-7726-01	5.323	6.748	9.823	10.56	0	652	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4424-01	TCGA-05-4424-01	5.29	2.267	10.07	10.05	0	913	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-MP-A4SW-01	TCGA-MP-A4SW-01	5.278	2.969	10.71	10.09	1	1778	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-6597-01	TCGA-50-6597-01	5.274	4.618	10.98	11.96	1	1268	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-7672-01	TCGA-44-7672-01	5.266	6.187	11.07	10.08	0	719	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8073-01	TCGA-86-8073-01	5.265	1.615	10.53	10.61	0	740	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-50-5932-01	TCGA-50-5932-01	5.263	0	9.036	10.94	1	1235	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-93-7348-01	TCGA-93-7348-01	5.247	4.811	10.19	9.794	0	531	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-7903-01	TCGA-55-7903-01	5.243	4.519	11	10.47	0	567	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8507-01	TCGA-55-8507-01	5.24	0	9.875	11.12	0	418	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-MP-A4T7-01	TCGA-MP-A4T7-01	5.233	2.752	9.798	10.3	1	167	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-7938-01	TCGA-97-7938-01	5.219	2.687	10.24	10.19	1	18	Stage IA	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-64-5775-01	TCGA-64-5775-01	5.162	1.92	9.401	11.94	1	62	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5944-01	TCGA-50-5944-01	5.16	0	9.5	9.578	0	1750	Stage IA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-35-4122-01	TCGA-35-4122-01	5.157	6.417	11.48	9.416	0	225	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-73-4662-01	TCGA-73-4662-01	5.139	5.039	9.91	9.828	0	2515	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-8120-01	TCGA-44-8120-01	5.138	3.099	10.08	9.532	0	260	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-6744-11	TCGA-49-6744-11	5.125	0.7242	10	10.59	0	1683	Stage IIA	Lung Adenocarcinoma Mixed Subtype	Solid Tissue Normal
+TCGA-MP-A4TI-01	TCGA-MP-A4TI-01	5.122	5.918	10.07	10.09	1	429	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7145-01	TCGA-78-7145-01	5.119	4.966	11.01	10.87	1	826	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-AARE-01	TCGA-49-AARE-01	5.097	2.692	10.35	11.03	1	1229	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-67-3770-01	TCGA-67-3770-01	5.083	3.503	10.82	8.628	0	610	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-64-5779-01	TCGA-64-5779-01	5.076	3.064	10.27	10.06	0	864	Stage IIIA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-53-A4EZ-01	TCGA-53-A4EZ-01	5.073	3.846	10.57	10.54	0	1071	Stage IIA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-95-7567-01	TCGA-95-7567-01	5.072	2.954	10.21	11.08	0	568	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-99-AA5R-01	TCGA-99-AA5R-01	5.069	5.731	10.31	10.52	0	658	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-95-7948-01	TCGA-95-7948-01	5.069	2.569	11.16	9.501	0	476	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-73-4676-11	TCGA-73-4676-11	5.058	3.339	10.54	10.14	1	281	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-86-A4P8-01	TCGA-86-A4P8-01	5.04	2.97	10.44	10.12	0	805	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4430-01	TCGA-05-4430-01	5.026	6.318	10.09	9.807	0	761	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-6985-11	TCGA-55-6985-11	5.023	1.125	10.45	10.22	0	1233	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-95-7562-01	TCGA-95-7562-01	5.019	2.333	8.955	10.06	1	87	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-J2-8192-01	TCGA-J2-8192-01	5.007	5.67	10.41	9.295	0	739	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-64-5778-01	TCGA-64-5778-01	5.006	4.05	11.08	9.648	0	1305	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-50-5930-11	TCGA-50-5930-11	5.006	0	10.22	10.84	1	282	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Solid Tissue Normal
+TCGA-97-7547-01	TCGA-97-7547-01	5.003	3.077	9.94	11.39	0	1965	Stage IB	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-44-3396-11	TCGA-44-3396-11	4.991	0.6711	10.29	10.54	0	1130	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-49-6742-11	TCGA-49-6742-11	4.989	0	10.25	10.76	1	488	Stage IIA	Mucinous (Colloid) Carcinoma	Solid Tissue Normal
+TCGA-55-6972-11	TCGA-55-6972-11	4.987	0.8379	10.21	10.49	1	1632	Stage IB	Lung Papillary Adenocarcinoma	Solid Tissue Normal
+TCGA-50-5933-11	TCGA-50-5933-11	4.986	0	10.13	11.31	1	2393	Stage IIIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-91-6829-11	TCGA-91-6829-11	4.985	0.7499	10.57	10.39	1	1258	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Solid Tissue Normal
+TCGA-67-3771-01	TCGA-67-3771-01	4.983	3.81	10.85	10.15	0	610	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-A4M0-01	TCGA-97-A4M0-01	4.98	6.951	10.87	9.38	0	652	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-L9-A8F4-01	TCGA-L9-A8F4-01	4.979	3.464	9.824	10.99	0	476	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-AAR0-01	TCGA-49-AAR0-01	4.965	4.846	9.789	10.22	0	4765	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-6593-01	TCGA-50-6593-01	4.961	6.04	10.53	10.18	1	336	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-7283-01	TCGA-55-7283-01	4.958	3.173	10.02	10.05	0	609	Stage IIIA	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-69-7760-01	TCGA-69-7760-01	4.953	0	10.82	10.73	0	202	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-MP-A4TJ-01	TCGA-MP-A4TJ-01	4.94	5.785	10.28	10.31	1	339	Stage IA	Lung Signet Ring Adenocarcinoma	Primary Tumor
+TCGA-44-A479-01	TCGA-44-A479-01	4.931	7.258	9.882	10.8	0	486	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8090-01	TCGA-55-8090-01	4.927	4.542	9.891	11.11	1	598	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-6591-01	TCGA-50-6591-01	4.92	0.6757	9.197	10.27	1	119	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-7771-01	TCGA-91-7771-01	4.914	3.342	9.775	9.938	0	492	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-8177-01	TCGA-97-8177-01	4.883	5.696	10.65	9.797	0	499	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-7955-01	TCGA-86-7955-01	4.874	1.325	9.246	10.55	0	1072	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-64-1678-01	TCGA-64-1678-01	4.863	5.265	11.75	9.075	0	1189	[Discrepancy]	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2655-11	TCGA-44-2655-11	4.86	0.3876	10.15	10.22	0	1324	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-NJ-A4YF-01	TCGA-NJ-A4YF-01	4.855	1.497	9.483	10.2	0	2161	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-6971-11	TCGA-55-6971-11	4.854	1.582	10.12	10.85	0	1400	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-86-A4JF-01	TCGA-86-A4JF-01	4.853	4.96	10.18	10.47	1	737	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5935-11	TCGA-50-5935-11	4.851	0	10.07	10.53	1	653	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-44-7659-01	TCGA-44-7659-01	4.841	3.519	9.756	9.804	0	691	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6776-11	TCGA-44-6776-11	4.841	0	9.978	10.89	0	2616	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-05-4420-01	TCGA-05-4420-01	4.838	3.875	9.716	9.852	0	912	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-MP-A4TD-01	TCGA-MP-A4TD-01	4.838	3.303	9.984	10.83	1	307	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-A4M1-01	TCGA-97-A4M1-01	4.828	2.146	10.12	10.16	0	601	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-69-7763-01	TCGA-69-7763-01	4.817	2.518	9.75	10.86	0	690	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-44-5645-11	TCGA-44-5645-11	4.816	0.5541	10.29	10.58	0	852	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-64-5774-01	TCGA-64-5774-01	4.815	2.62	9.597	10.81	0	2676	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8301-01	TCGA-55-8301-01	4.79	4.005	10.16	9.634	0	534	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-A46Y-01	TCGA-62-A46Y-01	4.785	5.946	10.06	9.925	1	414	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-7227-01	TCGA-55-7227-01	4.769	6.367	11.08	10.32	1	952	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-NJ-A4YI-01	TCGA-NJ-A4YI-01	4.765	4.654	10.28	11.29	1	4	Stage IIIA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-99-8033-01	TCGA-99-8033-01	4.764	3.006	9.77	10.19	1	656	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-7910-01	TCGA-55-7910-01	4.751	3.072	9.382	10.48	0	1040	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-AAR4-01	TCGA-49-AAR4-01	4.747	2.988	10.48	11.28	1	879	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5066-01	TCGA-50-5066-01	4.715	6.107	11.52	9.556	0	1442	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-8673-01	TCGA-86-8673-01	4.713	3.203	10.22	11.44	0	862	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-83-5908-01	TCGA-83-5908-01	4.709	3.616	9.865	11.63	0	824	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2661-11	TCGA-44-2661-11	4.708	1.535	10.38	10.64	0	1159	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-73-4675-01	TCGA-73-4675-01	4.706	4.805	10.13	10.71	1	922	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2657-11	TCGA-44-2657-11	4.703	3.982	10.35	10.14	0	1351	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-MN-A4N1-01	TCGA-MN-A4N1-01	4.696	1.168	11.05	9.941	0	827	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-73-4666-01	TCGA-73-4666-01	4.681	0.5878	10.14	10.15	0	800	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8615-01	TCGA-55-8615-01	4.648	0.6181	10.48	10.93	0	446	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-7914-01	TCGA-55-7914-01	4.643	4.169	10.81	10.34	1	187	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-8662-01	TCGA-78-8662-01	4.634	0.7327	10.66	9.845	1	3361	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-4487-01	TCGA-49-4487-01	4.62	7.103	10.65	10.86	1	855	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2661-01	TCGA-44-2661-01	4.617	8.003	10.87	9.417	0	1159	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5055-01	TCGA-50-5055-01	4.6	7.705	10.86	9.175	1	1830	Stage IIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-6982-11	TCGA-55-6982-11	4.594	0.7851	10.27	10.33	1	995	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-78-7535-01	TCGA-78-7535-01	4.591	6.916	10.88	10.17	1	949	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-A46S-01	TCGA-62-A46S-01	4.582	3.421	8.957	11.26	1	1653	Stage IB	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-95-A4VN-01	TCGA-95-A4VN-01	4.567	6.57	10.11	10.59	0	553	Stage IIA	Lung Solid Pattern Predominant Adenocarcinoma	Primary Tumor
+TCGA-55-1595-01	TCGA-55-1595-01	4.56	3.756	10.4	9.918	0	1479	Stage IA	Lung Clear Cell Adenocarcinoma	Primary Tumor
+TCGA-97-8171-01	TCGA-97-8171-01	4.553	0.8817	9.742	9.735	0	568	Stage IV	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-49-6743-11	TCGA-49-6743-11	4.549	0	10.58	10.46	0	1621	Stage IIIA	Lung Clear Cell Adenocarcinoma	Solid Tissue Normal
+TCGA-78-8648-01	TCGA-78-8648-01	4.533	3.639	10.35	9.608	1	1209	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-A4DG-01	TCGA-55-A4DG-01	4.533	2.974	9.93	9.801	0	608	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-MP-A4TE-01	TCGA-MP-A4TE-01	4.525	0	8.781	10.83	1	896	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-80-5608-01	TCGA-80-5608-01	4.523	3.45	9.51	10.93	0	2832	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5941-01	TCGA-50-5941-01	4.511	5.672	10.44	9.924	0	1474	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-6595-11	TCGA-50-6595-11	4.511	0.8309	10.25	10.44	1	189	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-73-4676-01	TCGA-73-4676-01	4.501	3.392	10.39	10.37	1	281	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6983-01	TCGA-55-6983-01	4.5	6.638	10.11	10.34	0	2823	Stage IIB	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-55-6975-11	TCGA-55-6975-11	4.498	1.485	10.12	10.65	1	118	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Solid Tissue Normal
+TCGA-78-7539-01	TCGA-78-7539-01	4.492	4.653	10.73	9.82	0	791	Stage IIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-97-8547-01	TCGA-97-8547-01	4.489	4.219	10.31	9.924	0	657	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-8085-01	TCGA-55-8085-01	4.474	3.601	9.661	9.343	0	904	Stage IA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-50-5942-01	TCGA-50-5942-01	4.466	2.274	10.07	9.8	0	1847	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-7701-01	TCGA-86-7701-01	4.464	7.006	10.32	9.932	0	947	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6146-11	TCGA-44-6146-11	4.462	0	10.1	10.39	0	728	Stage IIB	Lung Mucinous Adenocarcinoma	Solid Tissue Normal
+TCGA-05-4384-01	TCGA-05-4384-01	4.444	3.058	9.734	9.87	0	426	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-80-5611-01	TCGA-80-5611-01	4.435	2.119	10.45	9.649	0	2595	Stage IB	Lung Solid Pattern Predominant Adenocarcinoma	Primary Tumor
+TCGA-NJ-A4YP-01	TCGA-NJ-A4YP-01	4.432	3.803	9.981	10.22	0	50	Stage IB	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-55-6972-01	TCGA-55-6972-01	4.43	1.099	9.196	9.467	1	1632	Stage IB	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-05-5423-01	TCGA-05-5423-01	4.427	7.212	11.24	9.073	0	151	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-38-7271-01	TCGA-38-7271-01	4.426	6.756	10.25	9.6	1	800	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6145-11	TCGA-44-6145-11	4.414	0	10.3	11.5	0	595	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-05-4422-01	TCGA-05-4422-01	4.378	3.847	9.691	10.59	0	365	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-78-7162-01	TCGA-78-7162-01	4.376	3.178	9.892	9.741	1	3169	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-A48Z-01	TCGA-55-A48Z-01	4.372	4.116	10.9	9.704	0	651	Stage IIIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-73-4668-01	TCGA-73-4668-01	4.37	2.735	9.4	10.75	0	467	Stage IIB	Lung Micropapillary Adenocarcinoma	Primary Tumor
+TCGA-55-6970-11	TCGA-55-6970-11	4.363	3.093	10.36	10.33	1	464	Stage IIIA	Lung Papillary Adenocarcinoma	Solid Tissue Normal
+TCGA-05-4244-01	TCGA-05-4244-01	4.361	4.854	10.78	10.31	0	0	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2656-01	TCGA-44-2656-01	4.358	5.352	10.82	9.573	0	1429	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-93-7347-01	TCGA-93-7347-01	4.352	5.698	10.54	10.11	0	683	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-64-5781-01	TCGA-64-5781-01	4.343	3.227	10.1	11.31	0	1559	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-67-3774-01	TCGA-67-3774-01	4.333	3.488	9.854	10.91	0	385	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6836-11	TCGA-91-6836-11	4.304	0	10.54	10.48	0	417	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-44-6777-11	TCGA-44-6777-11	4.265	2.931	10.36	10.4	1	987	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-NJ-A4YQ-01	TCGA-NJ-A4YQ-01	4.263	4.166	9.542	10.1	0	1432	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5936-11	TCGA-50-5936-11	4.255	0.6995	10.1	10.32	1	257	Stage IIIA	Mucinous (Colloid) Carcinoma	Solid Tissue Normal
+TCGA-49-4512-11	TCGA-49-4512-11	4.247	2.619	10.81	9.492	1	905	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-50-5939-11	TCGA-50-5939-11	4.23	0	10.18	10.86	1	460	Stage IB	Lung Adenocarcinoma Mixed Subtype	Solid Tissue Normal
+TCGA-MP-A4SY-01	TCGA-MP-A4SY-01	4.229	4.73	10.25	10.69	1	1501	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8097-01	TCGA-55-8097-01	4.218	3.908	10.12	9.668	0	476	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-A4BD-01	TCGA-91-A4BD-01	4.212	2.835	10.49	9.856	0	603	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-73-4659-01	TCGA-73-4659-01	4.21	4.09	9.68	10.66	1	711	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4396-01	TCGA-05-4396-01	4.205	2.657	9.165	9.161	1	303	Stage IIIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-7727-01	TCGA-55-7727-01	4.204	4.738	10.75	9.826	0	119	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2655-01	TCGA-44-2655-01	4.198	4.777	10.49	9.283	0	1324	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6144-11	TCGA-44-6144-11	4.196	1.514	10.31	10.37	0	723	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-44-2668-01	TCGA-44-2668-01	4.186	3.507	11.17	11.84	1	761	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6642-01	TCGA-55-6642-01	4.173	1.857	10.26	10.5	0	2449	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-99-8025-01	TCGA-99-8025-01	4.169	3.544	9.946	11.54	0	1060	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-75-6206-01	TCGA-75-6206-01	4.169	1.53	9.744	10.43	0	2590	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-6590-01	TCGA-50-6590-01	4.158	5.819	9.864	10.86	1	1288	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-O1-A52J-01	TCGA-O1-A52J-01	4.149	4.188	11.1	10.06	1	1798	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6968-11	TCGA-55-6968-11	4.142	3.689	10.46	10.21	1	1293	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-97-A4M2-01	TCGA-97-A4M2-01	4.119	3.705	9.967	9.731	0	624	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-50-5932-11	TCGA-50-5932-11	4.107	0	9.764	10.63	1	1235	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-50-5931-11	TCGA-50-5931-11	4.098	0	10.29	11.11	1	434	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-67-6217-01	TCGA-67-6217-01	4.081	5.33	9.876	9.59	0	422	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7167-01	TCGA-78-7167-01	4.066	1.314	9.007	9.748	1	2681	Stage IV	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-73-4670-01	TCGA-73-4670-01	4.027	2.566	10.24	10.22	0	131	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7161-01	TCGA-78-7161-01	4.006	0	9.936	10.78	1	291	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-6979-11	TCGA-55-6979-11	3.981	0	10.55	10.29	1	237	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-49-4494-01	TCGA-49-4494-01	3.979	6.231	10.97	9.786	1	1081	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6778-11	TCGA-44-6778-11	3.976	0.6687	10.4	10.69	0	1864	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-62-8397-01	TCGA-62-8397-01	3.963	2.428	9.707	9.484	0	1289	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-1594-01	TCGA-55-1594-01	3.958	2.051	10.29	10.41	0	1178	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-4632-01	TCGA-38-4632-01	3.957	7.033	10.55	12.82	1	1357	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-7671-01	TCGA-44-7671-01	3.954	0.3952	9.506	10.18	0	889	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-7953-01	TCGA-86-7953-01	3.924	4.771	9.855	10.22	0	997	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-A4M3-01	TCGA-97-A4M3-01	3.922	2.013	9.152	10.66	0	540	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-8278-01	TCGA-86-8278-01	3.907	6	10.48	10.37	0	944	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-8497-01	TCGA-91-8497-01	3.897	3.264	9.75	10.16	1	434	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-4510-01	TCGA-49-4510-01	3.881	3.004	9.877	10.59	1	896	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-6761-11	TCGA-49-6761-11	3.856	1.027	10.45	10.18	0	354	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-97-7937-01	TCGA-97-7937-01	3.834	3.517	10.65	10.57	0	564	Stage IB	Lung Micropapillary Adenocarcinoma	Primary Tumor
+TCGA-44-5645-01	TCGA-44-5645-01	3.827	7.236	10.15	9.6	0	852	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6981-11	TCGA-55-6981-11	3.814	0.951	10.32	10.58	1	1379	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-64-1679-01	TCGA-64-1679-01	3.813	6.733	10.22	9.717	0	2488	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8092-01	TCGA-55-8092-01	3.797	0.531	9.807	10.33	1	154	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8091-01	TCGA-55-8091-01	3.782	7.784	9.985	9.877	0	600	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8206-01	TCGA-55-8206-01	3.776	6.237	10.09	10.1	0	888	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-4632-11	TCGA-38-4632-11	3.758	1.96	11.23	9.59	1	1357	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-MP-A4SV-01	TCGA-MP-A4SV-01	3.744	4.035	9.73	10.47	1	2620	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-A470-01	TCGA-62-A470-01	3.735	1.158	9.55	9.472	1	1194	Stage IB	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-55-8299-01	TCGA-55-8299-01	3.728	3.105	10.22	10.21	1	469	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4410-01	TCGA-05-4410-01	3.726	2.667	10.24	11.57	0	0	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-7714-01	TCGA-86-7714-01	3.724	8.215	10.66	8.809	1	625	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-38-4626-01	TCGA-38-4626-01	3.724	1.602	10.82	10.39	0	3674	[Discrepancy]	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8359-01	TCGA-86-8359-01	3.717	3.051	9.373	10.95	1	444	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8076-01	TCGA-86-8076-01	3.71	7.779	9.958	9.948	0	993	Stage IA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-49-4490-11	TCGA-49-4490-11	3.69	1.926	10.72	9.625	1	385	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-55-6970-01	TCGA-55-6970-01	3.688	4.409	9.386	9.956	1	464	Stage IIIA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-50-5049-01	TCGA-50-5049-01	3.669	5.344	11	9.342	0	3094	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-4112-01	TCGA-44-4112-01	3.661	3.175	11.17	10.04	1	808	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-8457-01	TCGA-50-8457-01	3.648	3.095	10.17	9.315	0	1125	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-93-A4JO-01	TCGA-93-A4JO-01	3.645	6.686	9.829	9.848	1	33	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-73-4658-01	TCGA-73-4658-01	3.645	6.188	10.38	10.66	1	1600	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-L9-A444-01	TCGA-L9-A444-01	3.631	3.225	10.66	10.27	0	307	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7153-01	TCGA-78-7153-01	3.591	1.507	9.215	11.08	0	3635	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-99-8032-01	TCGA-99-8032-01	3.579	2.78	9.834	10.29	0	44	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-J2-8194-01	TCGA-J2-8194-01	3.573	6.505	9.086	10.61	0	724	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-7281-01	TCGA-55-7281-01	3.564	7.226	10.81	9.898	0	872	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6979-01	TCGA-55-6979-01	3.532	6.101	10.78	10.97	1	237	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-4627-11	TCGA-38-4627-11	3.49	0	10.99	9.76	1	1147	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-64-1677-01	TCGA-64-1677-01	3.439	7.083	10.38	10.53	1	628	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7542-01	TCGA-78-7542-01	3.428	3.954	9.608	11.2	1	321	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2665-11	TCGA-44-2665-11	3.427	0.7629	10.3	10.65	0	1301	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-55-8203-01	TCGA-55-8203-01	3.42	6.901	9.566	10.44	0	547	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-7713-01	TCGA-86-7713-01	3.409	0.3109	8.725	11.5	0	1157	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-4488-01	TCGA-49-4488-01	3.398	7.242	11.93	9.202	1	869	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4249-01	TCGA-05-4249-01	3.37	8.547	9.833	9.772	0	1523	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-6969-11	TCGA-55-6969-11	3.368	2.134	10.19	10.38	0	1239	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-55-5899-01	TCGA-55-5899-01	3.343	1.716	10.49	10.89	0	930	[Discrepancy]	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-64-1680-01	TCGA-64-1680-01	3.317	1.319	10.83	9.137	0	1126	Stage IV	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-8668-01	TCGA-86-8668-01	3.312	4.179	9.603	9.503	0	423	Stage IA	Lung Bronchioloalveolar Carcinoma Mucinous	Primary Tumor
+TCGA-55-7913-01	TCGA-55-7913-01	3.307	3.081	9.939	10.75	1	561	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-67-6216-01	TCGA-67-6216-01	3.299	6.321	10.82	10.21	0	141	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-MP-A5C7-01	TCGA-MP-A5C7-01	3.28	0.5008	9.53	9.708	0	2248	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8511-01	TCGA-55-8511-01	3.276	5.817	10.57	9.942	0	552	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-3918-01	TCGA-44-3918-01	3.231	7.108	11.03	10.2	0	1036	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-38-4627-01	TCGA-38-4627-01	3.231	1.673	10.84	9.767	1	1147	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-MP-A4TH-01	TCGA-MP-A4TH-01	3.218	5.693	10.11	11.15	0	741	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-53-7813-01	TCGA-53-7813-01	3.205	4.207	9.423	11.03	0	424	Stage IIIB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-50-8460-01	TCGA-50-8460-01	3.179	5.55	10.28	9.306	0	829	Stage IA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-67-4679-01	TCGA-67-4679-01	3.175	6.336	10.4	9.833	0	448	[Discrepancy]	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-4486-01	TCGA-49-4486-01	3.167	1.22	10.34	9.831	1	2318	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-95-A4VP-01	TCGA-95-A4VP-01	3.148	4.709	10.29	10.44	0	605	Stage IIIA	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-S2-AA1A-01	TCGA-S2-AA1A-01	3.148	3.677	10.33	9.699	0	513	Stage IA	Lung Bronchioloalveolar Carcinoma Mucinous	Primary Tumor
+TCGA-78-7159-01	TCGA-78-7159-01	3.123	1.072	9.364	10.36	0	1974	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-69-7765-01	TCGA-69-7765-01	3.086	6.349	10.44	10.36	0	165	[Discrepancy]	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-97-8172-01	TCGA-97-8172-01	3.072	5.199	9.669	10.17	0	545	Stage IB	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-L4-A4E6-01	TCGA-L4-A4E6-01	3.041	3.307	10.62	9.983	0	435	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5045-01	TCGA-50-5045-01	3.034	6.462	10.87	9.728	1	2174	[Discrepancy]	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7163-01	TCGA-78-7163-01	3.034	0.7526	10.54	9.582	0	7248	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-49-4506-01	TCGA-49-4506-01	3.029	5.535	10.37	10.36	1	999	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4427-01	TCGA-05-4427-01	3.011	3.471	10.43	11.39	0	791	Stage IIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-NJ-A4YG-01	TCGA-NJ-A4YG-01	2.987	6.227	10.38	10.36	0	2261	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-99-8028-01	TCGA-99-8028-01	2.98	6.941	10.22	10.05	0	1118	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2659-01	TCGA-44-2659-01	2.975	1.566	10.52	9.699	0	1367	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-73-7498-01	TCGA-73-7498-01	2.966	2.494	9.808	9.486	0	1189	Stage IA	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-67-6215-01	TCGA-67-6215-01	2.945	4.759	10.22	10.39	0	174	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6831-11	TCGA-91-6831-11	2.937	0	10.39	11.1	0	310	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-78-7536-01	TCGA-78-7536-01	2.936	1.017	8.961	9.634	1	244	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-73-4677-01	TCGA-73-4677-01	2.935	4.079	10.57	9.494	1	38	[Discrepancy]	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7149-01	TCGA-78-7149-01	2.929	1.408	9.989	9.642	0	3940	Stage IIIB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-49-6761-01	TCGA-49-6761-01	2.926	6.113	10.17	11.43	0	354	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6147-11	TCGA-44-6147-11	2.926	1.137	10.06	12.24	0	845	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-86-8279-01	TCGA-86-8279-01	2.91	6.56	10.12	9.819	0	949	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-3398-01	TCGA-44-3398-01	2.892	8.925	11.29	9.194	0	1163	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-8655-01	TCGA-78-8655-01	2.874	3.104	10.07	9.591	0	2360	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-7725-01	TCGA-55-7725-01	2.868	4.712	10.63	10.27	0	442	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-64-1676-01	TCGA-64-1676-01	2.855	6.563	11.44	8.7	0	1728	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-A490-01	TCGA-55-A490-01	2.787	3.932	10.88	11.42	1	99	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-69-8253-01	TCGA-69-8253-01	2.747	4.111	10.42	10.71	0	426	Stage IIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-86-8669-01	TCGA-86-8669-01	2.738	3.386	9.303	10.51	0	938	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-75-6212-01	TCGA-75-6212-01	2.691	5.173	10.39	9.161	1	1516	Stage IIB	Lung Micropapillary Adenocarcinoma	Primary Tumor
+TCGA-55-6986-01	TCGA-55-6986-01	2.606	2.915	9.783	10.62	0	3261	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-44-6778-01	TCGA-44-6778-01	2.603	4.916	10.18	10.17	0	1864	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7156-01	TCGA-78-7156-01	2.579	0.6977	9.318	9.56	1	976	Stage IV	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-97-8174-01	TCGA-97-8174-01	2.568	2.099	9.264	10.17	1	164	Stage IIA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-86-8281-01	TCGA-86-8281-01	2.555	3.279	9.877	10.47	0	0	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-97-8175-01	TCGA-97-8175-01	2.553	7.109	10.31	10.68	0	551	Stage IB	Lung Solid Pattern Predominant Adenocarcinoma	Primary Tumor
+TCGA-55-6971-01	TCGA-55-6971-01	2.546	5.861	10.17	12.19	0	1400	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-A492-01	TCGA-55-A492-01	2.541	0	9.741	9.509	0	596	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-7574-01	TCGA-55-7574-01	2.527	5.58	9.811	10.34	1	995	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-6777-01	TCGA-44-6777-01	2.52	6.702	10.62	9.741	1	987	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-7669-01	TCGA-44-7669-01	2.486	3.261	10.01	10.36	1	574	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8056-01	TCGA-86-8056-01	2.46	3.752	10.18	11.04	0	139	Stage IIIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-97-7554-01	TCGA-97-7554-01	2.46	3.393	10.95	10.08	0	775	Stage IIIA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-91-6849-01	TCGA-91-6849-01	2.446	3.307	9.683	10.3	0	35	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5933-01	TCGA-50-5933-01	2.345	1.34	10.27	11.51	1	2393	Stage IIIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-50-5051-01	TCGA-50-5051-01	2.285	4.11	9.807	10.16	1	478	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8054-01	TCGA-86-8054-01	2.221	1.873	8.738	10.97	0	1148	Stage IIB	Lung Acinar Adenocarcinoma	Primary Tumor
+TCGA-44-6776-01	TCGA-44-6776-01	2.199	2.199	9.705	10.62	0	2616	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8620-01	TCGA-55-8620-01	2.193	2.798	10.24	10.42	1	375	Stage IV	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-5428-01	TCGA-05-5428-01	2.166	5.13	11.71	9.123	0	670	Stage IIA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-44-2668-11	TCGA-44-2668-11	2.156	0	10.59	11.54	1	761	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Solid Tissue Normal
+TCGA-86-8674-01	TCGA-86-8674-01	2.128	1.426	9.23	10.48	0	806	Stage IIA	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-55-6543-01	TCGA-55-6543-01	2.119	0.6391	10.24	10.56	0	435	Stage IA	Lung Bronchioloalveolar Carcinoma Mucinous	Primary Tumor
+TCGA-44-A4SS-01	TCGA-44-A4SS-01	1.914	2.581	9.877	10.15	0	415	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8508-01	TCGA-55-8508-01	1.869	2.182	9.701	10.68	0	617	Stage IIA	Mucinous (Colloid) Carcinoma	Primary Tumor
+TCGA-78-7537-01	TCGA-78-7537-01	1.806	5.805	10.33	10.24	1	1622	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-91-8496-01	TCGA-91-8496-01	1.733	3.657	11.01	9.295	0	505	Stage IB	Lung Bronchioloalveolar Carcinoma Nonmucinous	Primary Tumor
+TCGA-44-3396-01	TCGA-44-3396-01	1.695	6.563	10.48	9.994	0	1130	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-86-8585-01	TCGA-86-8585-01	1.681	4.221	9.661	10.24	0	353	Stage IB	Lung Solid Pattern Predominant Adenocarcinoma	Primary Tumor
+TCGA-67-3773-01	TCGA-67-3773-01	1.611	6.897	10.76	9.227	0	427	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8514-01	TCGA-55-8514-01	1.554	2.623	9.261	9.656	0	520	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2665-01	TCGA-44-2665-01	1.535	7.579	10.3	10.59	0	1301	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7152-01	TCGA-78-7152-01	1.515	5.144	9.965	10.65	1	1215	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-35-3615-01	TCGA-35-3615-01	1.392	4.549	9.831	9.801	0	14	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-62-A46P-01	TCGA-62-A46P-01	1.324	1.703	9.804	11.2	1	594	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-55-6987-01	TCGA-55-6987-01	1.27	5.989	9.977	9.634	0	2137	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-8087-01	TCGA-55-8087-01	1.261	8.013	10.23	9.833	0	462	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-71-6725-01	TCGA-71-6725-01	1.169	0.6996	10.72	9.979	0	256	Stage IB	Lung Papillary Adenocarcinoma	Primary Tumor
+TCGA-78-8660-01	TCGA-78-8660-01	1.115	7.609	10.01	11.25	1	321	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-8119-01	TCGA-44-8119-01	1.037	1.961	9.661	10.72	0	285	Stage IIB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-4B-A93V-01	TCGA-4B-A93V-01	0.9725	3.272	8.414	10.48	1	300	Stage IA	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-MN-A4N4-01	TCGA-MN-A4N4-01	0.9715	2.537	10.24	11.24	0	1175	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-NJ-A7XG-01	TCGA-NJ-A7XG-01	0.938	2.221	9.788	10.34	0	617	Stage IIIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-8117-01	TCGA-44-8117-01	0.9009	3.475	10.16	9.857	0	385	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-05-4417-01	TCGA-05-4417-01	0.7096	4.078	9.726	10.18	0	455	Stage IB	Lung Adenocarcinoma Mixed Subtype	Primary Tumor
+TCGA-50-7109-01	TCGA-50-7109-01	0.6872	3.428	9.051	11.11	1	308	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-A47B-01	TCGA-44-A47B-01	0.5339	4.602	9.51	10.95	0	287	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-91-6828-01	TCGA-91-6828-01	0	5.687	9.739	10.07	0	323	Stage IA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-7815-01	TCGA-55-7815-01	0	5.647	9.696	10.76	0	773	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-55-A48Y-01	TCGA-55-A48Y-01	0	4.494	9.649	10.88	0	630	Stage IIA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-44-2662-01	TCGA-44-2662-01	0	1.285	10.69	11.51	0	1280	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
+TCGA-78-7155-01	TCGA-78-7155-01	0	1.109	8.431	9.403	1	1171	Stage IB	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	Primary Tumor
