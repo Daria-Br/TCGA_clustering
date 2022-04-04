@@ -4,6 +4,8 @@
 
 [pip requirements file](https://pip.pypa.io/en/stable/user_guide/)
 
+FYI: https://git-scm.com/docs/gitignore
+
 ## TODO: Write some documentation about
  - what to open first
  - what ever comes to mind
