@@ -11,7 +11,7 @@ Welcome to our Repository. Here, you can find the Jupyter Notebooks and Source D
 How to start a Jupyter Notebook and install the necessary libraries by example of the main LUAD clustering analysis:
 ```bash
 pip install -r ./requirements.txt
-jupyter notebook LUAD_IL22_Cluster_Analysis
+jupyter notebook LUAD_IL22_Cluster_Analysis.ipynb
 ```
 ### Repository Structure:
 
@@ -25,9 +25,19 @@ jupyter notebook LUAD_IL22_Cluster_Analysis
         + **BRCA_IL22.tsv**: This file contains the genomic and phenotypic data used for the analysis.
         + **BRCA_HER2+_Main_summary_stages.xlsx**: Output file of BRCA_IL22_HER2+.ipynb with absolute counts of summarized pathologic cancer stages by cluster.
         + **BRCA_HER2+_Main.xlsx**: Output file of BRCA_IL22_HER2+.ipynb containing scaled genomic, phenotypic, and cluster affiliation. 
-+ **Cibersortx_Analysis**:
-    + 
-    + 
++ **Cibersortx_Analysis**: Here, you can find how we prepared gene matrices for the CIBERSORTx deconvolution tool.
+    + **LUAD_CIBERSORTx.ipynb**: Notebook containing the formatting for the input file for the deconvolution and the processing of the result file for the LUAD Cohort.
+    + **BRCA_CIBERSORTx.ipynb**: Notebook containing the formatting for the input file for the deconvolution and the processing of the result file for the BRCA Cohort.
+    + **LUAD_all_clusters_CISO.txt**: Input file for CIBERSORTx deconvolution.
+    + **BRCA_all_clusters_CISO.txt**: Input file for CIBERSORTx deconvolution.
+    + **LUAD_Table_for_decon.xlsx**: Table containing cluster labels from the main cluster analysis of the LUAD cohort.
+    + **BRCA_all_clusters_CISO.txt**: Table containing cluster labels from the main cluster analysis of the BRCA cohort.
+    + **CIBERSORTx_Job1_Results_LUAD_all_clusters.xlsx**: CIBERSORTx results for the clustered LUAD cohort.
+    + **BRCA_CIBERSORTx_Job3_Results.xlsx**: CIBERSORTx results for the clustered BRCA cohort.
+    + **LUAD_LM22.tsv**: Unfiltered gene expression table based on the [LM22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5895181/) signature matrix from the LUAD cohort.
+    + **BRCA_LM22.tsv**: Unfiltered gene expression table based on the [LM22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5895181/) signature matrix from the BRCA cohort.
+    
+    
 +**Stage_Specific_Survival**:
 +**Cohort_Info_Table**: This folder contains notebooks and tables used for creating a descriptive table of the cohorts.
 +**requirements.txt**: Text file containing the python libraries and version info required for running the notebooks.
@@ -50,12 +60,6 @@ FYI: https://git-scm.com/docs/gitignore
  - what ever comes to mind
  - https://www.markdownguide.org/basic-syntax/
 
-Subfolders for every analisys?
-
-
-
-
-# 01_LUAD_IL22_Clusters-name-me-better-please
 
 ## How to run?
 
